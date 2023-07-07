@@ -1,0 +1,32 @@
+.navbar{
+    /* background-color: rgb(14, 209, 69); */
+     
+    background: rgb(14, 209, 69);    
+}
+
+.navbar ul li{
+    margin: 3px;
+    border-radius: 10px;
+    padding-left: 3px;
+}
+
+.navbar ul li a{
+    color: white;
+    
+}
+
+.navbar ul li:hover{
+     background: white;     
+}
+
+.selcDest{
+    padding: 5px;
+}
+
+.selcDest span{
+    margin-right: 2px;
+}
+
+.logo{
+    width: 50px;
+}

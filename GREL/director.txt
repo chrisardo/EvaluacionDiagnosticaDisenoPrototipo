@@ -1,0 +1,2 @@
+director:
+Nombre, apellido, dni, telefono y correo

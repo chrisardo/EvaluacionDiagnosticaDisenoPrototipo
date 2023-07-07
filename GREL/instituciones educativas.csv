@@ -1,0 +1,2051 @@
+#;Código modular;Nombre;Nivel / Modalidad;Estado;Departamento;Provincia;Distrito
+1;1794163;115;Primaria;Inactivo;Loreto;Alto Amazonas;Jeberos
+2;1795004;241;Primaria;Activo;Lima;Datem del Marañón;Andoas
+3;1794916;470;Primaria;Activo;Loreto;Loreto;Nauta
+4;1527621;54481;Secundaria;Inactivo;Loreto;Maynas;Napo
+5;400523;60001 MENELEO MEZA LOPEZ;Primaria;Activo;Loreto;Maynas;Iquitos
+6;400531;60002 ANTONIO ALVAREZ VASQUEZ;Primaria;Activo;Loreto;Maynas;Iquitos
+7;397992;60005 MARIA PARADO DE BELLIDO;Primaria;Activo;Loreto;Maynas;Iquitos
+8;400606;60007 BRASIL;Primaria;Activo;Loreto;Maynas;Iquitos
+9;400614;60008 AMADA PEREZ DE G.;Primaria;Activo;Loreto;Maynas;Iquitos
+10;398008;60010 VALENTIN PANIAGUA CORAZAO;Primaria;Activo;Loreto;Maynas;Belén
+11;400572;60012 ESTHER ANGULO DE PASQUEL;Primaria;Activo;Loreto;Maynas;Iquitos
+12;400622;60013 JOSE ABELARDO QUIÑONES;Primaria;Activo;Loreto;Maynas;Iquitos
+13;398016;60014 SANTO CRISTO BAGAZAN;Primaria;Activo;Loreto;Maynas;Belén
+14;1153105;60014 SANTO CRISTO BAGAZAN;Secundaria;Activo;Loreto;Maynas;Belén
+15;400655;60019 SAN MARTIN DE PORRES;Primaria;Activo;Loreto;Maynas;Iquitos
+16;1208933;60019 SAN MARTIN DE PORRES;Secundaria;Activo;Loreto;Maynas;Iquitos
+17;400663;60020 JORGE CHAVEZ;Primaria;Activo;Loreto;Maynas;Iquitos
+18;398040;60022 JUAN DIEGO NATAL;Primaria;Activo;Loreto;Maynas;Belén
+19;1153147;60022 JUAN DIEGO NATAL;Secundaria;Activo;Loreto;Maynas;Belén
+20;400671;60023;Primaria;Activo;Loreto;Maynas;Iquitos
+21;398057;60024 SAN JUAN DE MIRAFLORES;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+22;1153188;60024 SAN JUAN DE MIRAFLORES;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+23;203588;60025;Primaria;Activo;Loreto;Maynas;Belén
+24;1527456;60025;Secundaria;Activo;Loreto;Maynas;Belén
+25;398065;60026 RUY GUZMAN HIDALGO;Primaria;Activo;Loreto;Maynas;Belén
+26;302711;60027;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+27;398073;60027;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+28;398081;60029;Primaria;Activo;Loreto;Maynas;Iquitos
+29;573352;60029;Secundaria;Activo;Loreto;Maynas;Iquitos
+30;203604;60030;Primaria;Activo;Loreto;Maynas;Belén
+31;398099;60032;Primaria;Activo;Loreto;Maynas;Belén
+32;504795;60032;Secundaria;Activo;Loreto;Maynas;Belén
+33;203620;60033;Primaria;Activo;Loreto;Maynas;Belén
+34;1527217;60033;Secundaria;Activo;Loreto;Maynas;Belén
+35;203638;60034;Primaria;Activo;Loreto;Maynas;Belén
+36;1306323;60034;Secundaria;Activo;Loreto;Maynas;Belén
+37;1147859;60035;Secundaria;Activo;Loreto;Maynas;Punchana
+38;398552;60035;Primaria;Activo;Loreto;Maynas;Punchana
+39;398560;60036 LUIS NAVARRO CAUPER;Primaria;Activo;Loreto;Maynas;Iquitos
+40;596007;60036 LUIS NAVARRO CAUPER;Secundaria;Activo;Loreto;Maynas;Iquitos
+41;203646;60037;Primaria;Activo;Loreto;Maynas;Belén
+42;203653;60038;Primaria;Activo;Loreto;Maynas;Belén
+43;399550;60039;Primaria;Activo;Loreto;Maynas;Fernando Lores
+44;399576;60041;Primaria;Activo;Loreto;Maynas;Fernando Lores
+45;1532910;60041;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+46;203661;60042;Primaria;Activo;Loreto;Maynas;Fernando Lores
+47;399584;60043;Primaria;Activo;Loreto;Maynas;Fernando Lores
+48;1150622;60043;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+49;399600;60045;Primaria;Activo;Loreto;Maynas;Fernando Lores
+50;399618;60046;Primaria;Inactivo;Loreto;Maynas;Fernando Lores
+51;399626;60047;Primaria;Activo;Loreto;Maynas;Fernando Lores
+52;399634;60048;Primaria;Activo;Loreto;Maynas;Fernando Lores
+53;1150580;60048;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+54;203414;60050 REPUBLICA DE VENEZUELA;Primaria;Activo;Loreto;Maynas;Iquitos
+55;1152941;60050 REPUBLICA DE VENEZUELA;Secundaria;Activo;Loreto;Maynas;Iquitos
+56;398578;60052 GENERALISIMO JOSE DE SAN MARTIN;Primaria;Activo;Loreto;Maynas;Punchana
+57;1148014;60052 GENERALISIMO JOSE DE SAN MARTIN;Secundaria;Activo;Loreto;Maynas;Punchana
+58;398586;60053 GRAL. AUGUSTO FREYRE GARCIA;Primaria;Activo;Loreto;Maynas;Iquitos
+59;1390442;60053 GRAL. AUGUSTO FREYRE GARCIA;Secundaria;Activo;Loreto;Maynas;Iquitos
+60;202614;60054 JOSE SILFO ALVAN DEL CASTILLO;Primaria;Activo;Loreto;Maynas;Iquitos
+61;1263011;60054 JOSE SILFO ALVAN DEL CASTILLO;Secundaria;Activo;Loreto;Maynas;Iquitos
+62;203430;60055 SERAFIN FILOMENO;Primaria;Activo;Loreto;Maynas;Iquitos
+63;1470368;60055 SERAFIN FILOMENO;Secundaria;Activo;Loreto;Maynas;Iquitos
+64;203448;60056 HEROES DE GUEPPI;Primaria;Activo;Loreto;Maynas;Iquitos
+65;398594;60057 PETRONILA PEREDA DE FERRANDO;Primaria;Activo;Loreto;Maynas;Punchana
+66;1263052;60057 PETRONILA PEREDA DE FERRANDO;Secundaria;Activo;Loreto;Maynas;Punchana
+67;398602;60058;Primaria;Activo;Loreto;Maynas;Punchana
+68;398610;60059 ANTONIO RAYMONDI;Primaria;Activo;Loreto;Maynas;Punchana
+69;203455;60060 CESAR CALVO DE ARAUJO;Primaria;Activo;Loreto;Maynas;Iquitos
+70;398628;60061;Primaria;Activo;Loreto;Maynas;Punchana
+71;398644;60063;Primaria;Activo;Loreto;Maynas;Punchana
+72;738575;60063;Secundaria;Activo;Loreto;Maynas;Punchana
+73;398651;60064;Primaria;Activo;Loreto;Maynas;Punchana
+74;756015;60064;Secundaria;Activo;Loreto;Maynas;Punchana
+75;398669;60065;Primaria;Activo;Loreto;Maynas;Punchana
+76;1262211;60065;Secundaria;Activo;Loreto;Maynas;Punchana
+77;203851;60066 VIRGEN DE LOURDES;Primaria;Activo;Loreto;Maynas;Las Amazonas
+78;473603;60066 VIRGEN DE LOURDES;Secundaria;Activo;Loreto;Maynas;Las Amazonas
+79;203869;60067;Primaria;Activo;Loreto;Maynas;Las Amazonas
+80;203885;60069;Primaria;Activo;Loreto;Maynas;Las Amazonas
+81;1151315;60069;Secundaria;Activo;Loreto;Maynas;Las Amazonas
+82;203893;60070 JOSE CARLOS MARIATEGUI;Primaria;Activo;Loreto;Maynas;Las Amazonas
+83;574103;60070 JOSE CARLOS MARIATEGUI;Secundaria;Activo;Loreto;Maynas;Las Amazonas
+84;565663;60071 ANDRES A. CARDO FRANCO;Primaria;Activo;Loreto;Maynas;Indiana
+85;400796;60073;Primaria;Activo;Loreto;Maynas;Indiana
+86;685024;60073;Secundaria;Activo;Loreto;Maynas;Indiana
+87;400804;60074 CLAUDIANA DEL AGUILA DE PANDURO;Primaria;Activo;Loreto;Maynas;Indiana
+88;621185;60074 CLAUDIANA DEL AGUILA DE PANDURO;Secundaria;Activo;Loreto;Maynas;Indiana
+89;400812;60075;Primaria;Activo;Loreto;Maynas;Indiana
+90;400820;60076 MIGUEL RIOS LOPEZ;Primaria;Activo;Loreto;Maynas;Indiana
+91;537613;60076 MIGUEL RIOS LOPEZ;Secundaria;Activo;Loreto;Maynas;Indiana
+92;203919;60078;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+93;1539485;60078;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+94;203927;60079;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+95;1539196;60080 - CARLOS PATRICIO OLORTEGUI SAENZ;Secundaria;Inactivo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+96;572784;60080 CARLOS PATRICIO OLORTEGUI SAENZ;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+97;1539287;60080 CARLOS PATRICIO OLORTEGUI SAENZ;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+98;397638;60082;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+99;1267970;60082;Secundaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+100;1539279;60082;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+101;397646;60083;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+102;1539469;60083;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+103;400069;60084 CESAR VALLEJO;Primaria;Activo;Loreto;Maynas;Mazan
+104;549477;60084 CESAR VALLEJO;Secundaria;Activo;Loreto;Maynas;Mazan
+105;400077;60085;Primaria;Activo;Loreto;Maynas;Mazan
+106;1144989;60085;Secundaria;Activo;Loreto;Maynas;Mazan
+107;202986;60087 LUCILLE GAGNE PELLERIN;Primaria;Activo;Loreto;Maynas;Napo
+108;521419;60087 LUCILLE GAGNE PELLERIN;Secundaria;Activo;Loreto;Maynas;Napo
+109;203935;60089;Primaria;Activo;Loreto;Maynas;Torres Causana
+110;1525112;60089;Secundaria;Activo;Loreto;Maynas;Torres Causana
+111;203943;60090;Primaria;Activo;Loreto;Maynas;Torres Causana
+112;528240;60092 PADRE MEDARDO ANDRE;Secundaria;Activo;Loreto;Putumayo;Putumayo
+113;1149087;60092 PADRE MEDARDO ANDRE;Primaria;Activo;Loreto;Putumayo;Putumayo
+114;398115;60093 JOSE OLAYA BALANDRA;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+115;1152982;60093 JOSE OLAYA BALANDRA;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+116;398123;60094;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+117;1153022;60094;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+118;398131;60095;Primaria;Activo;Loreto;Maynas;Iquitos
+119;398149;60096;Primaria;Activo;Loreto;Maynas;Belén
+120;1148246;60097;Primaria;Activo;Loreto;Maynas;Belén
+121;398156;60098;Primaria;Activo;Loreto;Maynas;Belén
+122;398677;60099;Primaria;Activo;Loreto;Maynas;Punchana
+123;398685;60100;Primaria;Activo;Loreto;Maynas;Punchana
+124;573188;601000;Primaria;Activo;Loreto;Loreto;Urarinas
+125;573204;601001;Primaria;Activo;Loreto;Loreto;Urarinas
+126;1638378;601001;Secundaria;Activo;Loreto;Loreto;Urarinas
+127;566935;601002;Primaria;Activo;Loreto;Requena;Yaquerana
+128;566968;601003;Primaria;Activo;Loreto;Requena;Yaquerana
+129;566992;601004;Primaria;Activo;Loreto;Requena;Yaquerana
+130;1148634;601005;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+131;574640;601006;Primaria;Activo;Loreto;Requena;Alto Tapiche
+132;574673;601007;Primaria;Activo;Loreto;Requena;Puinahua
+133;1793264;601007;Secundaria;Activo;Loreto;Requena;Puinahua
+134;574582;601008 - PROSPERIDAD;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+135;566729;601009;Primaria;Activo;Loreto;Requena;Tapiche
+136;1786904;601009;Secundaria;Activo;Loreto;Requena;Tapiche
+137;720227;60101;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+138;1228600;60101;Primaria;Activo;Loreto;Maynas;Fernando Lores
+139;566752;601010;Primaria;Activo;Loreto;Requena;Requena
+140;634444;6010100 - SACAMBU;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+141;633230;6010101;Primaria;Activo;Loreto;Maynas;Belén
+142;1148402;6010102;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+143;633297;6010103;Primaria;Activo;Loreto;Maynas;Belén
+144;572875;6010104 TNTE E.P. LUIS GARCIA RUIZ;Secundaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+145;633974;6010104 TNTE E.P. LUIS GARCIA RUIZ;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+146;633503;6010105;Primaria;Activo;Loreto;Maynas;Fernando Lores
+147;633537;6010106;Primaria;Activo;Loreto;Maynas;Fernando Lores
+148;633560;6010107;Primaria;Activo;Loreto;Maynas;Fernando Lores
+149;633594;6010108;Primaria;Activo;Loreto;Maynas;Fernando Lores
+150;633628;6010109;Primaria;Activo;Loreto;Maynas;Fernando Lores
+151;566786;601011;Primaria;Activo;Loreto;Requena;Requena
+152;1209691;601011;Secundaria;Activo;Loreto;Requena;Requena
+153;633644;6010110;Primaria;Activo;Loreto;Maynas;Mazan
+154;633677;6010111;Primaria;Activo;Loreto;Maynas;Mazan
+155;633735;6010112;Primaria;Activo;Loreto;Maynas;Napo
+156;633834;6010113;Primaria;Activo;Loreto;Maynas;Torres Causana
+157;633743;6010114;Primaria;Activo;Loreto;Maynas;Napo
+158;633768;6010115;Primaria;Activo;Loreto;Maynas;Napo
+159;633776;6010116;Primaria;Activo;Loreto;Maynas;Napo
+160;633792;6010117;Primaria;Activo;Loreto;Maynas;Napo
+161;633800;6010118;Primaria;Activo;Loreto;Maynas;Napo
+162;633859;6010119;Primaria;Activo;Loreto;Maynas;Torres Causana
+163;566810;601012;Primaria;Activo;Loreto;Requena;Requena
+164;1147933;6010120;Secundaria;Activo;Loreto;Maynas;Punchana
+165;633321;6010120 LAS MALVINAS;Primaria;Activo;Loreto;Maynas;Punchana
+166;633354;6010121 JUAN JOSE BARDALES CHUQUIPIONDO;Primaria;Activo;Loreto;Maynas;Punchana
+167;633412;6010122;Primaria;Activo;Loreto;Maynas;Punchana
+168;651869;6010123;Primaria;Activo;Loreto;Maynas;Punchana
+169;633479;6010124;Primaria;Activo;Loreto;Maynas;Fernando Lores
+170;1307768;6010124;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+171;633651;6010126;Primaria;Activo;Loreto;Maynas;Fernando Lores
+172;1307776;6010127;Secundaria;Activo;Loreto;Maynas;Belén
+173;633446;6010127;Primaria;Activo;Loreto;Maynas;Belén
+174;633529;6010128;Primaria;Activo;Loreto;Maynas;Mazan
+175;633461;6010129;Primaria;Activo;Loreto;Maynas;Las Amazonas
+176;567057;601013 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+177;633495;6010130 - SANTA AMELIA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+178;633552;6010131;Primaria;Activo;Loreto;Maynas;Las Amazonas
+179;633586;6010132;Primaria;Activo;Loreto;Maynas;Las Amazonas
+180;633610;6010133;Primaria;Activo;Loreto;Maynas;Las Amazonas
+181;634436;6010134 - EL CAMPESINO;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Pebas
+182;634469;6010135;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+183;634410;6010136 GUSTAVO MOHMME LLONA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+184;651356;6010137;Primaria;Activo;Loreto;Requena;Puinahua
+185;634139;6010138;Primaria;Activo;Loreto;Requena;Emilio San Martín
+186;1354414;6010138;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+187;633891;6010139;Primaria;Activo;Loreto;Loreto;Tigre
+188;567081;601014;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+189;1151349;601014;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+190;633925;6010140;Primaria;Activo;Loreto;Loreto;Tigre
+191;633958;6010141;Primaria;Activo;Loreto;Loreto;Urarinas
+192;633982;6010142;Primaria;Activo;Loreto;Loreto;Urarinas
+193;634014;6010143;Primaria;Activo;Loreto;Loreto;Urarinas
+194;634329;6010144;Primaria;Activo;Loreto;Ucayali;Contamana
+195;634352;6010145;Primaria;Activo;Loreto;Ucayali;Contamana
+196;634378;6010146;Primaria;Activo;Loreto;Ucayali;Vargas Guerra
+197;634386;6010147;Primaria;Activo;Loreto;Ucayali;Sarayacu
+198;1149152;6010148;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+199;1784008;6010148;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+200;633685;6010149;Primaria;Activo;Loreto;Maynas;Fernando Lores
+201;567115;601015;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+202;634121;6010150;Primaria;Activo;Loreto;Maynas;Indiana
+203;633867;6010151;Primaria;Activo;Loreto;Loreto;Parinari
+204;633701;6010152;Primaria;Activo;Loreto;Maynas;Napo
+205;633826;6010153;Primaria;Activo;Loreto;Maynas;Napo
+206;633719;6010154;Primaria;Activo;Loreto;Maynas;Fernando Lores
+207;633438;6010155;Primaria;Activo;Loreto;Maynas;Fernando Lores
+208;651885;6010156 MARISCAL ANDRES AVELINO CACERES;Primaria;Activo;Loreto;Maynas;Iquitos
+209;1147651;6010156 MARISCAL ANDRES AVELINO CACERES;Secundaria;Activo;Loreto;Maynas;Iquitos
+210;653709;6010157;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+211;651414;6010158;Primaria;Activo;Loreto;Putumayo;Putumayo
+212;651943;6010159;Primaria;Activo;Loreto;Maynas;Punchana
+213;567149;601016;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+214;651851;6010160;Primaria;Activo;Loreto;Maynas;Napo
+215;652941;6010161;Primaria;Activo;Loreto;Ucayali;Sarayacu
+216;651281;6010162 FAUSTINO ZAPICO RAMOS;Primaria;Activo;Loreto;Ucayali;Contamana
+217;1782929;6010162 FAUSTINO ZAPICO RAMOS;Secundaria;Activo;Loreto;Ucayali;Contamana
+218;721084;6010163;Primaria;Activo;Loreto;Loreto;Parinari
+219;651265;6010164;Primaria;Inactivo;Loreto;Ucayali;Vargas Guerra
+220;651364;6010165;Primaria;Activo;Loreto;Requena;Alto Tapiche
+221;1154830;6010166;Primaria;Activo;Loreto;Requena;Maquia
+222;682187;6010167;Primaria;Activo;Loreto;Requena;Maquia
+223;1540467;6010167;Secundaria;Activo;Loreto;Requena;Maquia
+224;651323;6010168;Primaria;Activo;Loreto;Requena;Requena
+225;651315;6010169;Primaria;Activo;Loreto;Requena;Requena
+226;572818;601017;Primaria;Activo;Loreto;Maynas;Belén
+227;682153;6010170;Primaria;Activo;Loreto;Requena;Capelo
+228;651950;6010171;Primaria;Activo;Loreto;Maynas;Belén
+229;651844;6010172;Primaria;Activo;Loreto;Maynas;Torres Causana
+230;651331;6010173;Primaria;Activo;Loreto;Requena;Maquia
+231;1148956;6010174 GONZALO BRICEÑO ZEVALLOS;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+232;1794221;6010174 GONZALO BRICEÑO ZEVALLOS;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+233;651406;6010175;Primaria;Activo;Loreto;Maynas;Las Amazonas
+234;652933;6010176;Primaria;Activo;Loreto;Ucayali;Sarayacu
+235;634527;6010177;Primaria;Inactivo;Loreto;Ucayali;Contamana
+236;651398;6010178;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+237;653766;6010179;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+238;572842;601018;Primaria;Activo;Loreto;Putumayo;Yaguas
+239;682088;6010180;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+240;682120;6010181;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+241;682138;6010182;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+242;641613;6010183 MARIO VARGAS LLOSA;Primaria;Activo;Loreto;Loreto;Nauta
+243;651968;6010184;Primaria;Activo;Loreto;Maynas;Alto Nanay
+244;651935;6010185 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Maynas;Alto Nanay
+245;681973;6010186;Primaria;Activo;Loreto;Maynas;Punchana
+246;682096;6010187;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+247;1695568;6010187 SAN FELIPE DEL AMAZONAS;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+248;682104;6010188 - SANTOA DE SUNI;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+249;682112;6010189;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+250;1784891;6010189;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+251;572859;601019;Primaria;Activo;Loreto;Maynas;Indiana
+252;682195;6010190;Primaria;Activo;Loreto;Ucayali;Contamana
+253;503243;6010191;Primaria;Activo;Loreto;Maynas;Punchana
+254;1262294;6010191;Secundaria;Activo;Loreto;Maynas;Punchana
+255;681981;6010192;Primaria;Activo;Loreto;Requena;Yaquerana
+256;681999;6010193;Primaria;Activo;Loreto;Requena;Yaquerana
+257;681783;6010194 MARIA SOCORRO MENDOZA MENDOZA;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+258;1369503;6010194 MARIA SOCORRO MENDOZA MENDOZA;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+259;681908;6010195;Primaria;Activo;Loreto;Maynas;Mazan
+260;681841;6010196;Primaria;Activo;Loreto;Maynas;Torres Causana
+261;681858;6010197;Primaria;Activo;Loreto;Maynas;Napo
+262;681866;6010198;Primaria;Activo;Loreto;Maynas;Napo
+263;681916;6010199;Primaria;Activo;Loreto;Maynas;Mazan
+264;398164;60102;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+265;738542;60102;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+266;572883;601020;Primaria;Activo;Loreto;Maynas;Mazan
+267;682054;6010200;Primaria;Activo;Loreto;Loreto;Tigre
+268;1538313;6010200;Secundaria;Inactivo;Loreto;Loreto;Tigre
+269;1379700;6010200;Secundaria;Activo;Loreto;Loreto;Tigre
+270;682062;6010201;Primaria;Activo;Loreto;Loreto;Trompeteros
+271;1782655;6010201;Secundaria;Activo;Loreto;Loreto;Trompeteros
+272;682070;6010202;Primaria;Activo;Loreto;Loreto;Urarinas
+273;682021;6010203;Primaria;Activo;Loreto;Loreto;Nauta
+274;651240;6010204;Primaria;Activo;Loreto;Ucayali;Contamana
+275;682203;6010205;Primaria;Inactivo;Loreto;Ucayali;Contamana
+276;682278;6010206;Primaria;Activo;Loreto;Ucayali;Sarayacu
+277;681932;6010207;Primaria;Activo;Loreto;Maynas;Fernando Lores
+278;681924;6010208;Primaria;Activo;Loreto;Maynas;Mazan
+279;681890;6010209;Primaria;Activo;Loreto;Maynas;Las Amazonas
+280;1149004;6010209;Secundaria;Activo;Loreto;Maynas;Las Amazonas
+281;572917;601021;Primaria;Activo;Loreto;Maynas;Mazan
+282;683441;6010210;Primaria;Activo;Loreto;Maynas;Punchana
+283;682237;6010211;Primaria;Activo;Loreto;Ucayali;Contamana
+284;681882;6010212;Primaria;Activo;Loreto;Maynas;Indiana
+285;681833;6010213;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+286;682146;6010214;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+287;681940;6010215;Primaria;Activo;Loreto;Maynas;Fernando Lores
+288;681809;6010216;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+289;681957;6010217;Primaria;Activo;Loreto;Maynas;Fernando Lores
+290;682005;6010218;Primaria;Activo;Loreto;Requena;Yaquerana
+291;682039;6010219;Primaria;Activo;Loreto;Loreto;Nauta
+292;573279;601022;Primaria;Activo;Loreto;Maynas;Napo
+293;681965;6010220;Primaria;Activo;Loreto;Maynas;Fernando Lores
+294;682161;6010221 FRAY JESUS CARBALLO FERNANDEZ;Primaria;Activo;Loreto;Requena;Requena
+295;1794775;6010221 FRAY JESUS CARBALLO FERNANDEZ;Secundaria;Activo;Loreto;Requena;Requena
+296;682179;6010222;Primaria;Activo;Loreto;Requena;Emilio San Martín
+297;682047;6010223;Primaria;Activo;Loreto;Loreto;Nauta
+298;682013;6010224;Primaria;Activo;Loreto;Requena;Yaquerana
+299;1147065;6010224;Secundaria;Activo;Loreto;Requena;Yaquerana
+300;697797;6010225 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+301;683425;6010226;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+302;838334;6010227 CLUB DE LEONES DE LEMGO ALEMANIA;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+303;1147693;6010227 CLUB DE LEONES DE LEMGO ALEMANIA;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+304;681791;6010228;Primaria;Activo;Loreto;Maynas;Punchana
+305;573295;601023;Primaria;Activo;Loreto;Maynas;Torres Causana
+306;683466;6010230 BARBARA D'ACHILLE;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+307;1210491;6010230 BARBARA D'ACHILLE;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+308;683474;6010231;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+309;1527233;6010231;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+310;683482;6010232;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+311;683508;6010233;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+312;683516;6010234;Primaria;Activo;Loreto;Putumayo;Yaguas
+313;683524;6010235;Primaria;Activo;Loreto;Putumayo;Rosa Panduro
+314;683532;6010236;Primaria;Activo;Loreto;Putumayo;Rosa Panduro
+315;683565;6010237;Primaria;Activo;Loreto;Maynas;Torres Causana
+316;683573;6010238;Primaria;Activo;Loreto;Maynas;Indiana
+317;683581;6010239;Primaria;Activo;Loreto;Maynas;Indiana
+318;1306349;6010239;Secundaria;Activo;Loreto;Maynas;Indiana
+319;573360;601024;Primaria;Activo;Loreto;Maynas;Alto Nanay
+320;683599;6010240;Primaria;Activo;Loreto;Maynas;Indiana
+321;683607;6010241;Primaria;Activo;Loreto;Maynas;Indiana
+322;683615;6010242;Primaria;Activo;Loreto;Maynas;Indiana
+323;1527571;6010242;Secundaria;Activo;Loreto;Maynas;Indiana
+324;683623;6010243;Primaria;Activo;Loreto;Maynas;Mazan
+325;683631;6010244;Primaria;Activo;Loreto;Maynas;Indiana
+326;683672;6010245;Primaria;Activo;Loreto;Maynas;Fernando Lores
+327;683680;6010246;Primaria;Activo;Loreto;Requena;Yaquerana
+328;683698;6010247;Primaria;Activo;Loreto;Loreto;Nauta
+329;683706;6010248 JOSE FRANCISCO DA CRUZ;Primaria;Activo;Loreto;Loreto;Nauta
+330;1152792;6010248 JOSE FRANCISCO DA CRUZ;Secundaria;Activo;Loreto;Loreto;Nauta
+331;683714;6010249;Primaria;Activo;Loreto;Loreto;Trompeteros
+332;1638402;6010249;Secundaria;Activo;Loreto;Loreto;Trompeteros
+333;573386;601025 JOSE DE SAN MARTIN;Primaria;Activo;Loreto;Maynas;Punchana
+334;1307735;601025 JOSE DE SAN MARTIN;Secundaria;Activo;Loreto;Maynas;Punchana
+335;683722;6010250;Primaria;Activo;Loreto;Loreto;Tigre
+336;683730;6010251;Primaria;Activo;Loreto;Loreto;Tigre
+337;1537406;6010251;Secundaria;Activo;Loreto;Loreto;Tigre
+338;683755;6010252 - VILLA NUEVA ALIANZA;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+339;683763;6010253 - SANTA ISABEL DE CHAMBIRA;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Pebas
+340;683771;6010254 - NUEVO JARDIN;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+341;683789;6010255;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+342;653733;6010256 ESPERANZA DE MONGUBA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+343;683805;6010257 - SAN JUAN DE OROZA;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Pebas
+344;683813;6010258 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+345;683839;6010259;Primaria;Activo;Loreto;Requena;Requena
+346;573394;601026;Primaria;Activo;Loreto;Maynas;Alto Nanay
+347;683862;6010260 JOSE AMASIFUEN TANANTA;Primaria;Activo;Loreto;Requena;Saquena
+348;1209618;6010260 JOSE AMASIFUEN TANANTA;Secundaria;Activo;Loreto;Requena;Saquena
+349;683870;6010261;Primaria;Activo;Loreto;Requena;Emilio San Martín
+350;683888;6010262;Primaria;Activo;Loreto;Requena;Emilio San Martín
+351;684860;6010263;Primaria;Activo;Loreto;Requena;Maquia
+352;684878;6010264;Primaria;Activo;Loreto;Requena;Maquia
+353;1791078;6010264;Secundaria;Activo;Loreto;Requena;Maquia
+354;683748;6010265 ROMULO FREITAS ALVARADO;Primaria;Activo;Loreto;Loreto;Urarinas
+355;1781376;6010265 ROMULO FREITAS ALVARADO;Secundaria;Activo;Loreto;Loreto;Urarinas
+356;683540;6010266;Primaria;Activo;Loreto;Putumayo;Putumayo
+357;683649;6010267;Primaria;Activo;Loreto;Maynas;Mazan
+358;683656;6010268;Primaria;Activo;Loreto;Maynas;Mazan
+359;683664;6010269;Primaria;Activo;Loreto;Maynas;Mazan
+360;573410;601027;Primaria;Activo;Loreto;Maynas;Punchana
+361;683821;6010270 - NUEVA VIDA;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Pebas
+362;683557;6010271;Primaria;Activo;Loreto;Maynas;Napo
+363;683490;6010272;Primaria;Activo;Loreto;Maynas;Alto Nanay
+364;683847;6010273;Primaria;Activo;Loreto;Requena;Requena
+365;720110;6010274;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+366;684902;6010274;Primaria;Activo;Loreto;Ucayali;Contamana
+367;720128;6010275 FRANCISCO SECADA VIGNETTA;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+368;1153386;6010275 FRANCISCO SECADA VIGNETTA;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+369;684910;6010275-B;Primaria;Activo;Loreto;Ucayali;Contamana
+370;720136;6010276;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+371;720144;6010277;Primaria;Inactivo;Loreto;Maynas;Iquitos
+372;684894;6010277;Primaria;Inactivo;Loreto;Ucayali;Contamana
+373;720151;6010278;Primaria;Activo;Loreto;Maynas;Iquitos
+374;684928;6010278;Primaria;Inactivo;Loreto;Ucayali;Inahuaya
+375;720169;6010279;Primaria;Activo;Loreto;Maynas;Belén
+376;573881;601028;Primaria;Activo;Loreto;Maynas;Fernando Lores
+377;720201;6010280;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+378;720219;6010281;Primaria;Activo;Loreto;Putumayo;Yaguas
+379;720342;6010282;Primaria;Activo;Loreto;Maynas;Napo
+380;720359;6010283;Primaria;Activo;Loreto;Maynas;Napo
+381;720367;6010284;Primaria;Activo;Loreto;Maynas;Napo
+382;720540;6010285;Primaria;Activo;Loreto;Maynas;Indiana
+383;720557;6010286;Primaria;Activo;Loreto;Maynas;Mazan
+384;720565;6010287;Primaria;Activo;Loreto;Maynas;Mazan
+385;720573;6010288;Primaria;Activo;Loreto;Maynas;Indiana
+386;1152081;6010288;Secundaria;Activo;Loreto;Maynas;Indiana
+387;720532;6010289;Primaria;Activo;Loreto;Maynas;Las Amazonas
+388;574046;601029;Primaria;Activo;Loreto;Maynas;Las Amazonas
+389;720698;6010290;Primaria;Activo;Loreto;Maynas;Fernando Lores
+390;720706;6010291;Primaria;Activo;Loreto;Maynas;Fernando Lores
+391;720714;6010292;Primaria;Inactivo;Loreto;Maynas;Fernando Lores
+392;720722;6010293;Primaria;Activo;Loreto;Maynas;Fernando Lores
+393;720847;6010294;Primaria;Activo;Loreto;Loreto;Trompeteros
+394;720854;6010295;Primaria;Activo;Loreto;Loreto;Nauta
+395;720862;6010296;Primaria;Activo;Loreto;Loreto;Nauta
+396;720870;6010297;Primaria;Activo;Loreto;Loreto;Nauta
+397;720946;6010298 REPUBLICA DE ISRAEL;Primaria;Activo;Loreto;Loreto;Trompeteros
+398;1369081;6010298 REPUBLICA DE ISRAEL;Secundaria;Activo;Loreto;Loreto;Trompeteros
+399;720953;6010299;Primaria;Activo;Loreto;Loreto;Trompeteros
+400;398172;60103;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+401;1153220;60103;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+402;574079;601030;Primaria;Activo;Loreto;Maynas;Las Amazonas
+403;720961;6010300;Primaria;Activo;Loreto;Loreto;Trompeteros
+404;720979;6010301;Primaria;Activo;Loreto;Loreto;Trompeteros
+405;1785427;6010301;Secundaria;Activo;Loreto;Loreto;Trompeteros
+406;720987;6010302;Primaria;Activo;Loreto;Loreto;Tigre
+407;721175;6010303;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+408;721183;6010304;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+409;721191;6010305 - SOPLIN VARGAS;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+410;721209;6010306;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+411;721217;6010307 - PUEBLO JOVEN 30 DE JUNIO;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+412;1789965;6010307 - PUEBLO JOVEN 30 DE JUNIO;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+413;721282;6010308 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+414;721290;6010309 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+415;574137;601031;Primaria;Activo;Loreto;Maynas;Las Amazonas
+416;721373;6010310;Primaria;Activo;Loreto;Requena;Requena
+417;838748;6010311;Primaria;Activo;Loreto;Requena;Soplin
+418;721399;6010312;Primaria;Activo;Loreto;Requena;Soplin
+419;721480;6010313;Primaria;Activo;Loreto;Requena;Requena
+420;721498;6010314;Primaria;Inactivo;Loreto;Requena;Maquia
+421;721506;6010315;Primaria;Activo;Loreto;Requena;Requena
+422;721514;6010316;Primaria;Activo;Loreto;Requena;Maquia
+423;720375;6010317;Primaria;Activo;Loreto;Maynas;Torres Causana
+424;720177;6010318;Primaria;Activo;Loreto;Maynas;Belén
+425;720516;6010319;Primaria;Activo;Loreto;Maynas;Indiana
+426;574160;601032;Primaria;Activo;Loreto;Maynas;Las Amazonas
+427;720581;6010320;Primaria;Activo;Loreto;Maynas;Mazan
+428;720888;6010321 VIRGEN ROSA MISTICA;Primaria;Activo;Loreto;Loreto;Nauta
+429;1751270;6010321 VIRGEN ROSA MISTICA;Secundaria;Activo;Loreto;Loreto;Nauta
+430;720524;6010322;Primaria;Activo;Loreto;Maynas;Indiana
+431;721225;6010323 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+432;1149996;6010324;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+433;1148998;6010325 - SAN JOSE DE PUCAPALYA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+434;1150036;6010326 - MARIO RIVERA PEREIRA;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+435;1539170;6010327 - ALBERGUE INFANTIL;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+436;1539188;6010328 - SAN JUAN;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+437;1539261;6010329;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+438;574194;601033;Primaria;Activo;Loreto;Maynas;Las Amazonas
+439;1539253;6010330;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+440;1539329;6010331;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+441;1539337;6010332 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+442;1539360;6010333;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+443;1539378;6010334 - NUEVO PARAISO;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+444;1539386;6010335 - URANIAS;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+445;1539394;6010336 - SAN MARTIN;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+446;1539402;6010337 - ALDEA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+447;1539345;6010338 - 03 DE NOVIEMBRE;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+448;1539493;6010339 - PANCHO COCHA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+449;574228;601034;Primaria;Activo;Loreto;Maynas;Las Amazonas
+450;1539436;6010340;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+451;1539311;6010341;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+452;1539444;6010342 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+453;1539295;6010343;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+454;1539410;6010344;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+455;1354844;6010345 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+456;1354869;6010346;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+457;1354877;6010347;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+458;1354885;6010348-HAWAI;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+459;1354893;6010349;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+460;574434;601035;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+461;1354901;6010350 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+462;1354919;6010351-ISLA MIRAFLORES;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+463;1354927;6010352;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+464;1354935;6010353;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+465;3003522;6010354;Primaria;Activo;Loreto;Putumayo;Putumayo
+466;1354943;6010355-NUEVO REMANZO;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+467;1385210;6010357 - MONTE ALEGRE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+468;1397439;6010358;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+469;1397421;6010359 PUERTO RICO;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+470;574616;601036;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+471;1414861;6010360;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+472;1397413;6010361 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+473;1397447;6010362 - RONDIÑA III ZONA;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+474;1397405;6010363 FRANCISCO ALMEIDA PINTO - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+475;1523216;6010364;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+476;1523224;6010365 - BILINGÜE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+477;1536192;6010366;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+478;1536200;6010367;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;San Pablo
+479;1536218;6010368 - BILINGÜE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+480;1536226;6010369 - BILINGÜE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+481;574707;601037;Primaria;Activo;Loreto;Requena;Maquia
+482;1536382;6010370;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Pebas
+483;1536234;6010371 - BILINGÜE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+484;1538883;6010372;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+485;1579903;6010373;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+486;1635408;6010374;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+487;1635416;6010375;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+488;1794205;6010375;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+489;1640333;6010376 - BILINGÜE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+490;1659465;6010377 - BILINGÜE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+491;1702489;6010378;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+492;1702471;6010379;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+493;572966;601038;Primaria;Activo;Loreto;Loreto;Trompeteros
+494;1340645;601038;Secundaria;Activo;Loreto;Loreto;Trompeteros
+495;1702463;6010380 - BILINGÜE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+496;1738715;6010381;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+497;1738723;6010382;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+498;1738731;6010383;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+499;1738749;6010384;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+500;572974;601039;Primaria;Activo;Loreto;Loreto;Tigre
+501;203695;60104;Primaria;Activo;Loreto;Maynas;Belén
+502;572990;601040;Primaria;Activo;Loreto;Loreto;Tigre
+503;573006;601041;Primaria;Activo;Loreto;Loreto;Tigre
+504;573022;601042;Primaria;Activo;Loreto;Loreto;Tigre
+505;573030;601043;Primaria;Activo;Loreto;Loreto;Tigre
+506;573055;601044;Primaria;Activo;Loreto;Loreto;Tigre
+507;573063;601045;Primaria;Activo;Loreto;Loreto;Trompeteros
+508;573089;601046;Primaria;Activo;Loreto;Loreto;Tigre
+509;573212;601047;Primaria;Activo;Loreto;Loreto;Urarinas
+510;1638360;601047;Secundaria;Activo;Loreto;Loreto;Urarinas
+511;573238;601048 MIGUEL GRAU SEMINARIO;Primaria;Activo;Loreto;Loreto;Urarinas
+512;1671015;601048 MIGUEL GRAU SEMINARIO;Secundaria;Activo;Loreto;Loreto;Urarinas
+513;565671;601049;Primaria;Activo;Loreto;Maynas;Indiana
+514;398180;60105;Primaria;Activo;Loreto;Maynas;Belén
+515;1153063;60105;Secundaria;Activo;Loreto;Maynas;Belén
+516;1147610;601050;Secundaria;Activo;Loreto;Maynas;Iquitos
+517;602268;601050 MICAELA BASTIDAS;Primaria;Activo;Loreto;Maynas;Iquitos
+518;602276;601051;Primaria;Activo;Loreto;Maynas;Belén
+519;1563188;601051;Secundaria;Activo;Loreto;Maynas;Belén
+520;602292;601052;Primaria;Activo;Loreto;Maynas;Indiana
+521;602318;601053;Primaria;Activo;Loreto;Requena;Saquena
+522;1148592;601054;Primaria;Activo;Loreto;Requena;Alto Tapiche
+523;1354406;601054;Secundaria;Activo;Loreto;Requena;Alto Tapiche
+524;602334;601055 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+525;602359;601057 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+526;602367;601058;Primaria;Activo;Loreto;Requena;Requena
+527;602391;601059;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+528;203703;60106;Primaria;Activo;Loreto;Maynas;Fernando Lores
+529;602409;601060;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+530;720292;601060;Secundaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+531;602417;601061;Primaria;Activo;Loreto;Putumayo;Putumayo
+532;602425;601062;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+533;602433;601063;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+534;602441;601064;Primaria;Activo;Loreto;Putumayo;Putumayo
+535;602466;601065;Primaria;Activo;Loreto;Maynas;Napo
+536;602482;601066 MONITOR HUASCAR;Primaria;Activo;Loreto;Maynas;Iquitos
+537;602490;601067 BILINGÜE INTERCULTURAL;Primaria;Activo;Loreto;Maynas;Alto Nanay
+538;1307800;601067 BILINGÜE INTERCULTURAL;Secundaria;Activo;Loreto;Maynas;Alto Nanay
+539;602508;601068;Primaria;Activo;Loreto;Maynas;Alto Nanay
+540;602516;601069;Primaria;Activo;Loreto;Maynas;Alto Nanay
+541;398693;60107;Primaria;Activo;Loreto;Maynas;Belén
+542;602532;601070;Primaria;Activo;Loreto;Maynas;Fernando Lores
+543;602540;601071;Primaria;Activo;Loreto;Maynas;Belén
+544;602672;601072 - BETANIA;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Pebas
+545;1148790;601073 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+546;602664;601074;Primaria;Activo;Loreto;Loreto;Trompeteros
+547;602599;601075-B;Primaria;Activo;Loreto;Ucayali;Padre Márquez
+548;634501;601076;Primaria;Inactivo;Loreto;Ucayali;Pampa Hermosa
+549;602284;601077;Primaria;Activo;Loreto;Maynas;Belén
+550;1563196;601077;Secundaria;Activo;Loreto;Maynas;Belén
+551;602300;601078;Primaria;Activo;Loreto;Maynas;Indiana
+552;602375;601079;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+553;398198;60108;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+554;602383;601080;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+555;602458;601081;Primaria;Inactivo;Loreto;Maynas;Fernando Lores
+556;602474;601082;Primaria;Activo;Loreto;Maynas;Napo
+557;602524;601083 REINO UNIDO;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+558;602557;601084;Primaria;Activo;Loreto;Maynas;Fernando Lores
+559;602565;601085;Primaria;Activo;Loreto;Maynas;Fernando Lores
+560;602573;601086;Primaria;Activo;Loreto;Maynas;Las Amazonas
+561;602581;601087 SANTA ELENA DE IMASA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+562;1766245;601087 SANTA ELENA DE IMASA;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+563;602615;601088 BENEDICTO AREVALO RODRIGUEZ;Primaria;Inactivo;Loreto;Maynas;Iquitos
+564;602623;601089-B;Primaria;Activo;Loreto;Ucayali;Padre Márquez
+565;398701;60109 SANTA ESTEFANIA;Primaria;Activo;Loreto;Maynas;Punchana
+566;602631;601090;Primaria;Activo;Loreto;Requena;Requena
+567;634477;601091;Primaria;Activo;Loreto;Loreto;Urarinas
+568;602656;601092 FRANCISCO BOLOGNESI CERVANTES;Primaria;Activo;Loreto;Maynas;Iquitos
+569;634030;601093;Primaria;Activo;Loreto;Maynas;Punchana
+570;634063;601094;Primaria;Activo;Loreto;Maynas;Indiana
+571;634097;601095;Primaria;Activo;Loreto;Maynas;Punchana
+572;634048;601096;Primaria;Activo;Loreto;Requena;Requena
+573;838714;601097;Primaria;Activo;Loreto;Requena;Capelo
+574;1629112;601097;Secundaria;Activo;Loreto;Requena;Capelo
+575;634295;601098;Primaria;Activo;Loreto;Requena;Tapiche
+576;634071;601099;Primaria;Activo;Loreto;Requena;Requena
+577;398206;60110;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+578;1153261;60110;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+579;398719;60111;Primaria;Inactivo;Loreto;Maynas;Punchana
+580;398214;60112;Primaria;Activo;Loreto;Maynas;Iquitos
+581;1527746;60112;Secundaria;Activo;Loreto;Maynas;Iquitos
+582;398222;60113;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+583;738559;60113;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+584;1148915;60114 - SAN JUAN DE RAMON CASTILLA;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+585;398727;60115 MIGUEL GRAU SEMINARIO;Primaria;Activo;Loreto;Maynas;Punchana
+586;620971;60115 MIGUEL GRAU SEMINARIO;Secundaria;Activo;Loreto;Maynas;Punchana
+587;398735;60116;Primaria;Activo;Loreto;Maynas;Punchana
+588;756023;60116;Secundaria;Activo;Loreto;Maynas;Punchana
+589;203711;60117;Primaria;Activo;Loreto;Maynas;Belén
+590;1366285;60117;Secundaria;Activo;Loreto;Maynas;Belén
+591;203729;60118;Primaria;Activo;Loreto;Maynas;Belén
+592;398230;60119;Primaria;Activo;Loreto;Maynas;Belén
+593;1563204;60119;Secundaria;Activo;Loreto;Maynas;Belén
+594;203737;60120;Primaria;Activo;Loreto;Maynas;Belén
+595;1150820;60120;Secundaria;Activo;Loreto;Maynas;Belén
+596;203745;60121 VICTOR RAUL HAYA DE LA TORRE;Primaria;Activo;Loreto;Maynas;Belén
+597;720235;60121 VICTOR RAUL HAYA DE LA TORRE;Secundaria;Activo;Loreto;Maynas;Belén
+598;398248;60122;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+599;398255;60123;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+600;738567;60123;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+601;398263;60124;Primaria;Activo;Loreto;Maynas;Iquitos
+602;1153428;60124;Secundaria;Activo;Loreto;Maynas;Iquitos
+603;398271;60125;Primaria;Activo;Loreto;Maynas;Iquitos
+604;398743;60126;Primaria;Activo;Loreto;Maynas;Punchana
+605;398289;60127;Primaria;Activo;Loreto;Maynas;Iquitos
+606;621003;60127;Secundaria;Activo;Loreto;Maynas;Iquitos
+607;398297;60128 MARIA ANTONIETA RODRIGUEZ MACEDA;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+608;720243;60128 MARIA ANTONIETA RODRIGUEZ MACEDA;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+609;398305;60129;Primaria;Activo;Loreto;Maynas;Iquitos
+610;1271428;60129;Secundaria;Activo;Loreto;Maynas;Iquitos
+611;203752;60130;Primaria;Activo;Loreto;Maynas;Belén
+612;398750;60131;Primaria;Activo;Loreto;Maynas;Punchana
+613;398768;60132;Primaria;Activo;Loreto;Maynas;Punchana
+614;738385;601324 VIRGEN DE LAS MERCEDES;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+615;738393;601325 CARMEN ROSA PANDURO RAMIREZ;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+616;738401;601326;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+617;738468;601327;Primaria;Activo;Loreto;Maynas;Punchana
+618;738476;601328;Primaria;Activo;Loreto;Maynas;Punchana
+619;1153360;601329;Primaria;Activo;Loreto;Maynas;Belén
+620;398313;60133;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+621;1261577;60133;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+622;738419;601330;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+623;738427;601331;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+624;1147735;601331;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+625;738435;601332;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+626;738617;601333;Primaria;Activo;Loreto;Putumayo;Rosa Panduro
+627;738625;601334;Primaria;Activo;Loreto;Putumayo;Putumayo
+628;738633;601335;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+629;738641;601336;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+630;738658;601337;Primaria;Activo;Loreto;Putumayo;Yaguas
+631;738682;601338;Primaria;Activo;Loreto;Maynas;Napo
+632;1148568;601339;Primaria;Activo;Loreto;Maynas;Torres Causana
+633;398321;60134;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+634;1145895;601340;Primaria;Activo;Loreto;Maynas;Mazan
+635;1145937;601341;Primaria;Activo;Loreto;Maynas;Mazan
+636;1146414;601342;Primaria;Activo;Loreto;Maynas;Las Amazonas
+637;1146455;601343;Primaria;Inactivo;Loreto;Maynas;Las Amazonas
+638;735373;601344;Primaria;Activo;Loreto;Maynas;Las Amazonas
+639;1146539;601345;Primaria;Inactivo;Loreto;Maynas;Las Amazonas
+640;1145499;601346;Primaria;Activo;Loreto;Maynas;Indiana
+641;1307818;601346;Secundaria;Activo;Loreto;Maynas;Indiana
+642;1146141;601347;Primaria;Activo;Loreto;Maynas;Fernando Lores
+643;1210178;601347;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+644;1146182;601348;Primaria;Activo;Loreto;Maynas;Fernando Lores
+645;1146224;601349;Primaria;Activo;Loreto;Maynas;Fernando Lores
+646;398339;60135;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+647;1144625;601350;Primaria;Inactivo;Loreto;Maynas;Fernando Lores
+648;1150549;601350;Secundaria;Inactivo;Loreto;Maynas;Fernando Lores
+649;746529;601351 OTONIEL VELA PINEDO;Primaria;Activo;Loreto;Loreto;Nauta
+650;746537;601352;Primaria;Activo;Loreto;Loreto;Nauta
+651;746545;601353;Primaria;Activo;Loreto;Loreto;Nauta
+652;1790823;601353;Secundaria;Activo;Loreto;Loreto;Nauta
+653;746552;601354;Primaria;Activo;Loreto;Loreto;Nauta
+654;746560;601355;Primaria;Activo;Loreto;Loreto;Nauta
+655;1146307;601356;Primaria;Activo;Loreto;Maynas;Fernando Lores
+656;735100;601357;Primaria;Activo;Loreto;Loreto;Tigre
+657;1538305;601357;Secundaria;Inactivo;Loreto;Loreto;Tigre
+658;1379726;601357;Secundaria;Activo;Loreto;Loreto;Tigre
+659;735118;601358;Primaria;Activo;Loreto;Loreto;Tigre
+660;735134;601359;Primaria;Activo;Loreto;Loreto;Trompeteros
+661;398347;60136;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+662;735126;601360;Primaria;Activo;Loreto;Loreto;Tigre
+663;735183;601361;Primaria;Activo;Loreto;Loreto;Urarinas
+664;735191;601362;Primaria;Activo;Loreto;Loreto;Urarinas
+665;735209;601363;Primaria;Activo;Loreto;Loreto;Urarinas
+666;735241;601364;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+667;735258;601365;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+668;735266;601366 - PALESTINA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+669;837443;601367;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+670;737965;601368;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+671;737973;601369 - NUEVO ORIENTE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+672;398776;60137 SOLDADO ALFREDO VARGAS GUERRA;Primaria;Activo;Loreto;Maynas;Belén
+673;1209535;60137 SOLDADO ALFREDO VARGAS GUERRA;Secundaria;Activo;Loreto;Maynas;Belén
+674;738112;601370;Primaria;Activo;Loreto;Requena;Tapiche
+675;738096;601371;Primaria;Activo;Loreto;Requena;Requena
+676;1540434;601371;Secundaria;Activo;Loreto;Requena;Requena
+677;738104;601372;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+678;738138;601373;Primaria;Activo;Loreto;Requena;Soplin
+679;1795699;601373;Secundaria;Activo;Loreto;Requena;Soplin
+680;738443;601374 SIMON BOLIVAR;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+681;738450;601375;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+682;738120;601376;Primaria;Activo;Loreto;Requena;Saquena
+683;1155365;601376;Secundaria;Activo;Loreto;Requena;Saquena
+684;738492;601377;Primaria;Activo;Loreto;Maynas;Alto Nanay
+685;1146570;601378;Primaria;Activo;Loreto;Maynas;Las Amazonas
+686;735274;601379 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+687;398354;60138;Primaria;Activo;Loreto;Maynas;Belén
+688;1147453;60138;Secundaria;Activo;Loreto;Maynas;Belén
+689;735142;601380;Primaria;Activo;Loreto;Loreto;Trompeteros
+690;1704899;601380;Secundaria;Activo;Loreto;Loreto;Trompeteros
+691;737981;601381 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+692;1153402;601382;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+693;788943;601383;Primaria;Activo;Loreto;Maynas;Belén
+694;838367;601384;Primaria;Activo;Loreto;Maynas;Iquitos
+695;1153444;601385;Primaria;Activo;Loreto;Maynas;Iquitos
+696;1153485;601387;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+697;557538;60139;Primaria;Activo;Loreto;Maynas;Fernando Lores
+698;1261973;60139;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+699;790410;601390;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+700;1153527;601391;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+701;1151745;601392;Primaria;Activo;Loreto;Maynas;Belén
+702;838003;601393;Primaria;Activo;Loreto;Putumayo;Putumayo
+703;1145531;601394;Primaria;Activo;Loreto;Maynas;Indiana
+704;1145978;601395;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+705;803825;601396;Primaria;Activo;Loreto;Loreto;Nauta
+706;803858;601397;Primaria;Activo;Loreto;Loreto;Trompeteros
+707;1704907;601397;Secundaria;Activo;Loreto;Loreto;Trompeteros
+708;803882;601398;Primaria;Activo;Loreto;Loreto;Trompeteros
+709;1152222;601399;Primaria;Activo;Loreto;Maynas;Alto Nanay
+710;399659;60140;Primaria;Activo;Loreto;Maynas;Fernando Lores
+711;1150507;60140;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+712;791103;601400;Primaria;Activo;Loreto;Maynas;Napo
+713;838839;601401;Primaria;Activo;Loreto;Maynas;Napo
+714;1147941;601402;Primaria;Activo;Loreto;Maynas;Napo
+715;791160;601403;Primaria;Activo;Loreto;Maynas;Napo
+716;800631;601404;Primaria;Activo;Loreto;Requena;Soplin
+717;800664;601405;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+718;800698;601406;Primaria;Activo;Loreto;Requena;Requena
+719;1152263;601407;Primaria;Activo;Loreto;Maynas;Alto Nanay
+720;839589;601408;Primaria;Activo;Loreto;Loreto;Parinari
+721;838300;601409;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+722;804302;601409;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+723;399667;60141;Primaria;Activo;Loreto;Maynas;Fernando Lores
+724;1153568;601410;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+725;1149830;601410;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+726;1790070;601410;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+727;804369;601411;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Pebas
+728;838425;601411 MELVIN JONES;Primaria;Activo;Loreto;Maynas;Iquitos
+729;1153642;601412;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+730;1754183;601412;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+731;815993;601412 - 28 DE JULIO;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+732;838391;601413;Primaria;Activo;Loreto;Maynas;Belén
+733;1147982;601414;Primaria;Activo;Loreto;Maynas;Napo
+734;838805;601415;Primaria;Activo;Loreto;Maynas;Napo
+735;1145572;601416;Primaria;Activo;Loreto;Maynas;Indiana
+736;1145614;601417;Primaria;Activo;Loreto;Maynas;Indiana
+737;1146349;601418;Primaria;Activo;Loreto;Maynas;Fernando Lores
+738;1146380;601419;Primaria;Activo;Loreto;Maynas;Punchana
+739;203778;60142;Primaria;Activo;Loreto;Maynas;Fernando Lores
+740;1193218;60142;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+741;1153683;601420;Primaria;Inactivo;Loreto;Maynas;San Juan Bautista
+742;1153725;601421;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+743;837740;601421;Primaria;Activo;Loreto;Loreto;Urarinas
+744;1638386;601421;Secundaria;Activo;Loreto;Loreto;Urarinas
+745;1146018;601422;Primaria;Activo;Loreto;Maynas;Mazan
+746;839522;601422;Primaria;Activo;Loreto;Loreto;Nauta
+747;839613;601423;Primaria;Activo;Loreto;Loreto;Parinari
+748;837658;601424;Primaria;Activo;Loreto;Loreto;Nauta
+749;1149673;601425;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+750;1794999;601425;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+751;837500;601426;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+752;1148832;601427 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+753;1149756;601429 VILLA NUEVA VIDA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+754;399675;60143;Primaria;Activo;Loreto;Maynas;Fernando Lores
+755;800995;601430;Primaria;Activo;Loreto;Requena;Capelo
+756;801027;601431;Primaria;Inactivo;Loreto;Requena;Jenaro Herrera
+757;838656;601432;Primaria;Activo;Loreto;Requena;Emilio San Martín
+758;1154996;601433;Primaria;Activo;Loreto;Requena;Requena
+759;1155035;601434;Primaria;Activo;Loreto;Requena;Maquia
+760;1767581;601434;Secundaria;Activo;Loreto;Requena;Maquia
+761;1154236;601435;Primaria;Activo;Loreto;Requena;Requena
+762;1155076;601436;Primaria;Inactivo;Loreto;Requena;Maquia
+763;1155159;601437;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+764;1155118;601438;Primaria;Activo;Loreto;Requena;Puinahua
+765;1576974;601438;Secundaria;Activo;Loreto;Requena;Puinahua
+766;1154632;601439;Primaria;Activo;Loreto;Requena;Emilio San Martín
+767;399683;60144;Primaria;Activo;Loreto;Maynas;Fernando Lores
+768;685040;60144;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+769;1229608;601440;Primaria;Activo;Loreto;Requena;Emilio San Martín
+770;1153766;601441;Primaria;Activo;Loreto;Maynas;Fernando Lores
+771;1154673;601441;Primaria;Activo;Loreto;Requena;Emilio San Martín
+772;1153808;601442;Primaria;Activo;Loreto;Maynas;Iquitos
+773;1527282;601443;Primaria;Inactivo;Loreto;Maynas;Iquitos
+774;1153881;601444;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+775;1146059;601445;Primaria;Activo;Loreto;Maynas;Mazan
+776;1146422;601446;Primaria;Activo;Loreto;Maynas;Fernando Lores
+777;1153923;601447;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+778;837625;601447;Primaria;Activo;Loreto;Loreto;Nauta
+779;1153964;601448;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+780;837591;601448;Primaria;Activo;Loreto;Loreto;Nauta
+781;1790427;601448;Secundaria;Activo;Loreto;Loreto;Nauta
+782;1152305;601449;Primaria;Activo;Loreto;Maynas;Alto Nanay
+783;837567;601449;Primaria;Activo;Loreto;Loreto;Nauta
+784;399691;60145;Primaria;Activo;Loreto;Maynas;Fernando Lores
+785;682294;60145;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+786;1148360;601450;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+787;837534;601450;Primaria;Activo;Loreto;Loreto;Trompeteros
+788;1625722;601450;Secundaria;Activo;Loreto;Loreto;Trompeteros
+789;1151786;601451;Primaria;Activo;Loreto;Maynas;Punchana
+790;837716;601451;Primaria;Activo;Loreto;Loreto;Urarinas
+791;839191;601452;Primaria;Activo;Loreto;Maynas;Punchana
+792;1154004;601453;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+793;1306406;601453;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+794;1154046;601454;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+795;1153600;601455;Primaria;Activo;Loreto;Maynas;Fernando Lores
+796;837682;601455;Primaria;Activo;Loreto;Loreto;Urarinas
+797;1151828;601456;Primaria;Activo;Loreto;Maynas;Punchana
+798;839647;601456;Primaria;Activo;Loreto;Loreto;Urarinas
+799;1782671;601456;Secundaria;Activo;Loreto;Loreto;Urarinas
+800;1151869;601457 LEONCIO PRADO;Primaria;Activo;Loreto;Maynas;Punchana
+801;1151901;601458;Primaria;Activo;Loreto;Maynas;Punchana
+802;838771;601459;Primaria;Activo;Loreto;Maynas;Napo
+803;399709;60146;Primaria;Activo;Loreto;Maynas;Fernando Lores
+804;1148022;601460;Primaria;Activo;Loreto;Maynas;Napo
+805;1146463;601461;Primaria;Activo;Loreto;Maynas;Fernando Lores
+806;1149301;601461;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+807;1146505;601462;Primaria;Activo;Loreto;Maynas;Fernando Lores
+808;1146547;601463;Primaria;Activo;Loreto;Maynas;Fernando Lores
+809;1146588;601464;Primaria;Inactivo;Loreto;Maynas;Fernando Lores
+810;1146620;601465;Primaria;Activo;Loreto;Maynas;Fernando Lores
+811;1146661;601466;Primaria;Activo;Loreto;Maynas;Fernando Lores
+812;1146703;601467;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+813;1146745;601468;Primaria;Activo;Loreto;Maynas;Fernando Lores
+814;1146786;601469;Primaria;Activo;Loreto;Maynas;Fernando Lores
+815;203786;60147;Primaria;Activo;Loreto;Maynas;Fernando Lores
+816;1148063;601470;Primaria;Activo;Loreto;Maynas;Napo
+817;1148105;601471;Primaria;Activo;Loreto;Maynas;Napo
+818;1145655;601472;Primaria;Inactivo;Loreto;Maynas;Indiana
+819;1145697;601473;Primaria;Activo;Loreto;Maynas;Indiana
+820;1146091;601474 MIGUEL GRAU SEMINARIO;Primaria;Activo;Loreto;Maynas;Mazan
+821;1146133;601475;Primaria;Activo;Loreto;Maynas;Mazan
+822;1146612;601476;Primaria;Activo;Loreto;Maynas;Las Amazonas
+823;1146828;601477;Primaria;Activo;Loreto;Maynas;Fernando Lores
+824;1146174;601478;Primaria;Activo;Loreto;Maynas;Mazan
+825;1146653;601479;Primaria;Activo;Loreto;Maynas;Mazan
+826;399717;60148;Primaria;Activo;Loreto;Maynas;Fernando Lores
+827;1145739;601480;Primaria;Activo;Loreto;Maynas;Indiana
+828;1146695;601481;Primaria;Activo;Loreto;Maynas;Las Amazonas
+829;1146737;601482;Primaria;Activo;Loreto;Maynas;Las Amazonas
+830;1146216;601483;Primaria;Activo;Loreto;Maynas;Mazan
+831;1145770;601484;Primaria;Activo;Loreto;Maynas;Indiana
+832;1146257;601485;Primaria;Activo;Loreto;Maynas;Mazan
+833;1151943;601486 ALEXANDER VON HUMBOLDT;Primaria;Activo;Loreto;Maynas;Punchana
+834;1307719;601486 ALEXANDER VON HUMBOLDT;Secundaria;Activo;Loreto;Maynas;Punchana
+835;1151984;601487;Primaria;Inactivo;Loreto;Maynas;Punchana
+836;1146869;601488;Primaria;Activo;Loreto;Maynas;Fernando Lores
+837;1145812;601489;Primaria;Activo;Loreto;Maynas;Indiana
+838;399725;60149;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+839;1146299;601490;Primaria;Activo;Loreto;Maynas;Mazan
+840;1153345;601491 MADRE TERESA DE CALCUTA;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+841;1154087;601491 MADRE TERESA DE CALCUTA;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+842;1146778;601492;Primaria;Activo;Loreto;Maynas;Las Amazonas
+843;1152024;601493;Primaria;Activo;Loreto;Maynas;Punchana
+844;1149160;601494;Primaria;Inactivo;Loreto;Maynas;Fernando Lores
+845;1148147;601495;Primaria;Activo;Loreto;Maynas;Napo
+846;1154129;601496;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+847;1154160;601497;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+848;1390798;601497;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+849;1154202;601498;Primaria;Activo;Loreto;Maynas;Iquitos
+850;1146943;601499 BILINGUE;Primaria;Activo;Loreto;Maynas;Fernando Lores
+851;399733;60150;Primaria;Activo;Loreto;Maynas;Fernando Lores
+852;1146984;601500;Primaria;Activo;Loreto;Maynas;Fernando Lores
+853;400788;601503 JOAQUIN ABENSUR ARAUJO;Primaria;Activo;Loreto;Maynas;Punchana
+854;1154244;601504;Primaria;Activo;Loreto;Maynas;Belén
+855;1154285;601505;Primaria;Activo;Loreto;Maynas;Iquitos
+856;1146331;601506;Primaria;Activo;Loreto;Maynas;Mazan
+857;1152347;601507;Primaria;Activo;Loreto;Maynas;Alto Nanay
+858;1154327;601508;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+859;1146810;601509;Primaria;Activo;Loreto;Maynas;Las Amazonas
+860;1145184;601509;Secundaria;Activo;Loreto;Maynas;Mazan
+861;399741;60151;Primaria;Activo;Loreto;Maynas;Fernando Lores
+862;1146851;601510;Primaria;Activo;Loreto;Maynas;Las Amazonas
+863;1154368;601511;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+864;1148188;601512;Primaria;Activo;Loreto;Maynas;Napo
+865;1154400;601514;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+866;1154442;601515;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+867;1527829;601515;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+868;1152107;601516;Primaria;Activo;Loreto;Maynas;Punchana
+869;1145853;601517;Primaria;Activo;Loreto;Maynas;Indiana
+870;203794;60152;Primaria;Activo;Loreto;Maynas;Fernando Lores
+871;1328178;60152;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+872;1154566;601520;Primaria;Inactivo;Loreto;Maynas;Belén
+873;908681;601521;Primaria;Activo;Loreto;Loreto;Nauta
+874;908715;601522;Primaria;Activo;Loreto;Loreto;Tigre
+875;908806;601523;Primaria;Activo;Loreto;Loreto;Urarinas
+876;908830;601524;Primaria;Activo;Loreto;Loreto;Urarinas
+877;1734839;601524;Secundaria;Activo;Loreto;Loreto;Urarinas
+878;908954;601525;Primaria;Activo;Loreto;Loreto;Trompeteros
+879;1147677;601525;Primaria;Activo;Loreto;Datem del Marañón;Morona
+880;1797679;601525;Secundaria;Activo;Loreto;Datem del Marañón;Morona
+881;908863;601526;Primaria;Activo;Loreto;Loreto;Urarinas
+882;1147198;601526;Primaria;Activo;Loreto;Datem del Marañón;Barranca
+883;908897;601527;Primaria;Activo;Loreto;Loreto;Urarinas
+884;1147875;601527;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+885;1154608;601528;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+886;1147230;601528;Primaria;Activo;Loreto;Datem del Marañón;Barranca
+887;1147917;601529;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+888;1146935;601529 SEÑOR DE LOS MILAGROS;Primaria;Activo;Loreto;Maynas;Las Amazonas
+889;399758;60153;Primaria;Inactivo;Loreto;Maynas;Fernando Lores
+890;908921;601530;Primaria;Activo;Loreto;Loreto;Urarinas
+891;1147958;601530;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+892;908749;601531;Primaria;Activo;Loreto;Loreto;Urarinas
+893;1147271;601531;Primaria;Activo;Loreto;Datem del Marañón;Barranca
+894;908772;601532;Primaria;Activo;Loreto;Loreto;Urarinas
+895;1147313;601532;Primaria;Activo;Loreto;Datem del Marañón;Barranca
+896;1152149;601533;Primaria;Activo;Loreto;Maynas;Punchana
+897;1147990;601533;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+898;1147354;601534;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+899;1154640;601534 SAN LUCAS;Primaria;Activo;Loreto;Maynas;Belén
+900;1794445;601534 SAN LUCAS;Secundaria;Activo;Loreto;Maynas;Belén
+901;1147024;601535;Primaria;Activo;Loreto;Maynas;Fernando Lores
+902;1148030;601535;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+903;1154681;601536;Primaria;Activo;Loreto;Maynas;Belén
+904;1148220;601537;Primaria;Activo;Loreto;Maynas;Napo
+905;203802;60154;Primaria;Inactivo;Loreto;Maynas;Fernando Lores
+906;1154558;601540;Primaria;Activo;Loreto;Requena;Capelo
+907;1154723;601540 MONS. GABINO PERAL DE LA TORRE;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+908;1152180;601541;Primaria;Activo;Loreto;Maynas;Punchana
+909;1154392;601541;Primaria;Inactivo;Loreto;Requena;Requena
+910;1154434;601542;Primaria;Activo;Loreto;Requena;Requena
+911;1154590;601543;Primaria;Activo;Loreto;Requena;Capelo
+912;1154756;601544;Primaria;Activo;Loreto;Requena;Emilio San Martín
+913;1150267;601547;Primaria;Activo;Loreto;Loreto;Urarinas
+914;1155191;601548;Primaria;Activo;Loreto;Requena;Maquia
+915;1791060;601548;Secundaria;Activo;Loreto;Requena;Maquia
+916;1154475;601549;Primaria;Activo;Loreto;Requena;Requena
+917;399766;60155;Primaria;Activo;Loreto;Maynas;Fernando Lores
+918;1146372;601553;Primaria;Activo;Loreto;Maynas;Mazan
+919;1149871;601554 - JUAN PABLO II;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+920;1152701;601555 TARAPACA;Primaria;Activo;Loreto;Maynas;Iquitos
+921;1147768;601557 SANTA ROSA DE LIMA;Primaria;Activo;Loreto;Maynas;Punchana
+922;1151174;601558;Primaria;Activo;Loreto;Maynas;Fernando Lores
+923;1151257;601559;Primaria;Activo;Loreto;Maynas;Fernando Lores
+924;1230341;601560;Primaria;Inactivo;Loreto;Maynas;Punchana
+925;1261932;601561;Primaria;Activo;Loreto;Maynas;Indiana
+926;1261650;601562 ALMIRANTE MIGUEL GRAU;Primaria;Activo;Loreto;Maynas;Punchana
+927;1261775;601563;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+928;1262336;601565;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+929;1262690;601565;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+930;1262658;601566;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+931;1262732;601568;Primaria;Activo;Loreto;Requena;Requena
+932;1262815;601569;Primaria;Activo;Loreto;Maynas;Alto Nanay
+933;203810;60157;Primaria;Activo;Loreto;Maynas;Fernando Lores
+934;1527464;60157;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+935;1262856;601570;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+936;1263219;601571;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+937;1269687;601572;Primaria;Activo;Loreto;Maynas;Fernando Lores
+938;1269729;601573;Primaria;Inactivo;Loreto;Maynas;Fernando Lores
+939;1268010;601574 - BUEN JARDIN;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+940;1531524;601575;Primaria;Activo;Loreto;Maynas;Mazan
+941;1271667;601576;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+942;1271782;601577;Primaria;Activo;Loreto;Maynas;Indiana
+943;399774;60158;Primaria;Activo;Loreto;Maynas;Fernando Lores
+944;1273960;601580;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+945;1273929;601581 CORAZON DE JESUS;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+946;1274083;601582 AGUSTIN RIVAS VASQUEZ;Primaria;Activo;Loreto;Maynas;Fernando Lores
+947;1274125;601582 AGUSTIN RIVAS VASQUEZ;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+948;1537307;601583;Primaria;Activo;Loreto;Loreto;Nauta
+949;1537273;601584;Primaria;Activo;Loreto;Loreto;Nauta
+950;1527431;601585;Primaria;Inactivo;Loreto;Maynas;San Juan Bautista
+951;1527449;601585;Secundaria;Inactivo;Loreto;Maynas;San Juan Bautista
+952;1538008;601585;Primaria;Activo;Loreto;Loreto;Parinari
+953;1538347;601586 MI REFUGIO;Primaria;Activo;Loreto;Loreto;Nauta
+954;1782739;601586 MI REFUGIO;Secundaria;Activo;Loreto;Loreto;Nauta
+955;1537281;601587 HERMAN ABEL RUCOBA SAENZ;Primaria;Activo;Loreto;Loreto;Tigre
+956;1538362;601588;Primaria;Activo;Loreto;Loreto;Tigre
+957;1537299;601589;Primaria;Activo;Loreto;Loreto;Tigre
+958;399782;60159;Primaria;Activo;Loreto;Maynas;Fernando Lores
+959;1537398;601590;Primaria;Activo;Loreto;Loreto;Tigre
+960;1538396;601591;Primaria;Activo;Loreto;Loreto;Tigre
+961;1538610;601592;Primaria;Activo;Loreto;Loreto;Trompeteros
+962;1537489;601593;Primaria;Activo;Loreto;Loreto;Trompeteros
+963;1331073;601594 REGINA LEONOR CORTES ALVARADO;Primaria;Activo;Loreto;Loreto;Nauta
+964;1548189;601594 REGINA LEONOR CORTES ALVARADO;Secundaria;Activo;Loreto;Loreto;Nauta
+965;1537257;601595;Primaria;Activo;Loreto;Loreto;Trompeteros
+966;1538651;601596;Primaria;Activo;Loreto;Loreto;Trompeteros
+967;1538669;601597;Primaria;Activo;Loreto;Loreto;Trompeteros
+968;1537315;601598;Primaria;Activo;Loreto;Loreto;Trompeteros
+969;1538685;601599;Primaria;Activo;Loreto;Loreto;Trompeteros
+970;399790;60160;Primaria;Activo;Loreto;Maynas;Fernando Lores
+971;1150747;60160;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+972;1537414;601600;Primaria;Activo;Loreto;Loreto;Urarinas
+973;1537422;601601;Primaria;Activo;Loreto;Loreto;Urarinas
+974;1537455;601602;Primaria;Activo;Loreto;Loreto;Urarinas
+975;1782697;601602;Secundaria;Activo;Loreto;Loreto;Urarinas
+976;1537463;601603;Primaria;Activo;Loreto;Loreto;Urarinas
+977;1537471;601604;Primaria;Activo;Loreto;Loreto;Urarinas
+978;1527407;601605;Primaria;Activo;Loreto;Maynas;Belén
+979;1527613;601606;Primaria;Activo;Loreto;Maynas;Belén
+980;1563220;601606;Secundaria;Activo;Loreto;Maynas;Belén
+981;1527589;601607;Primaria;Activo;Loreto;Maynas;Mazan
+982;1527514;601608;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+983;1527670;601608;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+984;1527704;601609;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+985;399808;60161;Primaria;Activo;Loreto;Maynas;Fernando Lores
+986;1527712;601610;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+987;1306224;601611;Primaria;Activo;Loreto;Maynas;Las Amazonas
+988;1319995;601612;Primaria;Activo;Loreto;Maynas;Fernando Lores
+989;1305812;601613;Primaria;Activo;Loreto;Maynas;Napo
+990;1320019;601613;Primaria;Inactivo;Loreto;Maynas;Napo
+991;1320001;601614;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+992;1305960;601615;Primaria;Activo;Loreto;Maynas;Mazan
+993;1795723;601615;Secundaria;Activo;Loreto;Maynas;Mazan
+994;1305978;601616;Primaria;Inactivo;Loreto;Maynas;Fernando Lores
+995;1305986;601617;Primaria;Activo;Loreto;Putumayo;Putumayo
+996;1305994;601618;Primaria;Activo;Loreto;Maynas;Mazan
+997;1306000;601619;Primaria;Activo;Loreto;Maynas;Mazan
+998;203828;60162 AUGUSTO FREYRE GARCIA;Primaria;Activo;Loreto;Maynas;Fernando Lores
+999;1261817;60162 AUGUSTO FREYRE GARCIA;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+1000;1306018;601620;Primaria;Activo;Loreto;Maynas;Mazan
+1001;1306026;601621;Primaria;Activo;Loreto;Maynas;Indiana
+1002;1306034;601622;Primaria;Activo;Loreto;Maynas;Indiana
+1003;1306042;601623;Primaria;Activo;Loreto;Maynas;Indiana
+1004;1306059;601624;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1005;1306067;601625;Primaria;Inactivo;Loreto;Maynas;Las Amazonas
+1006;1306315;601626;Primaria;Activo;Loreto;Maynas;Alto Nanay
+1007;1305929;601627;Primaria;Activo;Loreto;Maynas;Punchana
+1008;1305937;601628;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1009;1305945;601629;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1010;399816;60163;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1011;1305952;601630;Primaria;Activo;Loreto;Maynas;Belén
+1012;1306117;601631;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1013;1330026;601632;Primaria;Activo;Loreto;Loreto;Nauta
+1014;1330034;601633;Primaria;Activo;Loreto;Loreto;Nauta
+1015;1307792;601634;Primaria;Activo;Loreto;Maynas;Punchana
+1016;1330042;601634;Primaria;Activo;Loreto;Loreto;Nauta
+1017;1330059;601635;Primaria;Activo;Loreto;Loreto;Tigre
+1018;1330067;601636;Primaria;Activo;Loreto;Loreto;Tigre
+1019;1330075;601637;Primaria;Activo;Loreto;Loreto;Nauta
+1020;1330083;601638;Primaria;Activo;Loreto;Loreto;Urarinas
+1021;1330091;601639;Primaria;Activo;Loreto;Loreto;Urarinas
+1022;399824;60164;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1023;1330109;601640;Primaria;Activo;Loreto;Loreto;Urarinas
+1024;1330117;601641;Primaria;Activo;Loreto;Loreto;Urarinas
+1025;1330125;601642;Primaria;Activo;Loreto;Loreto;Urarinas
+1026;1797794;601642;Secundaria;Activo;Loreto;Loreto;Urarinas
+1027;1331065;601643;Primaria;Activo;Loreto;Loreto;Trompeteros
+1028;1351097;601644;Primaria;Activo;Loreto;Loreto;Urarinas
+1029;1351105;601645;Primaria;Activo;Loreto;Loreto;Urarinas
+1030;1351113;601646;Primaria;Activo;Loreto;Loreto;Urarinas
+1031;1351121;601647;Primaria;Activo;Loreto;Loreto;Urarinas
+1032;1366293;601648;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1033;1366301;601649;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1034;399832;60165;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1035;1150424;60165 RICARDO PALMA;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+1036;1328186;60165 RICARDO PALMA;Secundaria;Inactivo;Loreto;Maynas;Fernando Lores
+1037;1366319;601650;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1038;1391002;601651;Primaria;Activo;Loreto;Putumayo;Putumayo
+1039;399840;60166;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1040;1377720;601660;Primaria;Activo;Loreto;Maynas;Punchana
+1041;1378199;601661;Primaria;Activo;Loreto;Requena;Yaquerana
+1042;1378207;601662;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1043;1378215;601663;Primaria;Activo;Loreto;Maynas;Indiana
+1044;1378223;601664;Primaria;Activo;Loreto;Requena;Yaquerana
+1045;1378231;601665;Primaria;Activo;Loreto;Requena;Yaquerana
+1046;1378249;601666;Primaria;Activo;Loreto;Maynas;Punchana
+1047;1378256;601667;Primaria;Activo;Loreto;Requena;Yaquerana
+1048;1458876;601667 - BILINGÜE;Secundaria;Activo;Loreto;Requena;Yaquerana
+1049;1378264;601668;Primaria;Activo;Loreto;Requena;Yaquerana
+1050;1458884;601668 - BILINGÜE;Secundaria;Activo;Loreto;Requena;Yaquerana
+1051;1403856;601669;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1052;399857;60167;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1053;1378272;601670;Primaria;Inactivo;Loreto;Maynas;Mazan
+1054;1378280;601671;Primaria;Activo;Loreto;Maynas;Belén
+1055;1378298;601672;Primaria;Inactivo;Loreto;Putumayo;Putumayo
+1056;1378306;601673;Primaria;Inactivo;Loreto;Maynas;Mazan
+1057;1378314;601674;Primaria;Activo;Loreto;Putumayo;Putumayo
+1058;1378322;601675;Primaria;Activo;Loreto;Putumayo;Putumayo
+1059;1378330;601676;Primaria;Activo;Loreto;Putumayo;Putumayo
+1060;1378348;601677;Primaria;Inactivo;Loreto;Maynas;Indiana
+1061;1378355;601678;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1062;1378363;601679;Primaria;Activo;Loreto;Maynas;Punchana
+1063;399865;60168;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1064;1150788;60168;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+1065;1378371;601680;Primaria;Inactivo;Loreto;Maynas;Indiana
+1066;1378389;601681;Primaria;Activo;Loreto;Maynas;Mazan
+1067;1378397;601682;Primaria;Inactivo;Loreto;Maynas;Mazan
+1068;1378405;601683;Primaria;Inactivo;Loreto;Putumayo;Yaguas
+1069;1378413;601684;Primaria;Activo;Loreto;Putumayo;Rosa Panduro
+1070;1378421;601685;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1071;1378439;601686;Primaria;Inactivo;Loreto;Maynas;Mazan
+1072;1378447;601687;Primaria;Activo;Loreto;Maynas;Punchana
+1073;1378454;601688;Primaria;Inactivo;Loreto;Maynas;Las Amazonas
+1074;1378462;601689;Primaria;Inactivo;Loreto;Maynas;Mazan
+1075;399873;60169;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1076;1150663;60169;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+1077;1378470;601690;Primaria;Activo;Loreto;Requena;Yaquerana
+1078;1378488;601691;Primaria;Activo;Loreto;Putumayo;Putumayo
+1079;1378496;601692;Primaria;Activo;Loreto;Maynas;Belén
+1080;1406743;601693;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1081;1459742;601694;Primaria;Activo;Loreto;Maynas;Indiana
+1082;1420702;601695;Primaria;Activo;Loreto;Maynas;Mazan
+1083;1420710;601696;Primaria;Activo;Loreto;Maynas;Mazan
+1084;1450220;601697;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1085;1634054;601698;Primaria;Activo;Loreto;Maynas;Napo
+1086;1542711;601699;Primaria;Activo;Loreto;Maynas;Napo
+1087;399881;60170;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1088;1783190;60170;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+1089;1543255;601700;Primaria;Activo;Loreto;Maynas;Napo
+1090;1575364;601701;Primaria;Activo;Loreto;Putumayo;Yaguas
+1091;1575372;601702;Primaria;Activo;Loreto;Putumayo;Rosa Panduro
+1092;1575380;601703;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1093;1575398;601704;Primaria;Activo;Loreto;Putumayo;Putumayo
+1094;1575406;601705;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1095;1619949;601706;Primaria;Activo;Loreto;Loreto;Nauta
+1096;1573609;601707;Primaria;Activo;Loreto;Maynas;Napo
+1097;1556166;601708;Primaria;Activo;Loreto;Maynas;Napo
+1098;1556174;601709;Primaria;Activo;Loreto;Maynas;Napo
+1099;477836;60171;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1100;1556182;601710;Primaria;Activo;Loreto;Maynas;Napo
+1101;1556190;601711;Primaria;Activo;Loreto;Maynas;Napo
+1102;1556208;601712;Primaria;Activo;Loreto;Maynas;Napo
+1103;1556216;601713;Primaria;Activo;Loreto;Maynas;Napo
+1104;1619956;601714;Primaria;Activo;Loreto;Loreto;Trompeteros
+1105;1765130;601714;Secundaria;Activo;Loreto;Loreto;Trompeteros
+1106;1621879;601715;Primaria;Activo;Loreto;Loreto;Trompeteros
+1107;1619964;601716;Primaria;Activo;Loreto;Loreto;Urarinas
+1108;1628585;601717;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1109;1628593;601718;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1110;1628601;601719;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1111;399899;60172;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1112;1366327;60172;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+1113;1628619;601720;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1114;1633650;601721;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1115;1628627;601722;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+1116;1628635;601723;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+1117;1628643;601724;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+1118;1628650;601725;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+1119;1628668;601726;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+1120;1629153;601727;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1121;1629161;601728;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1122;1629179;601729;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1123;1629187;601730;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+1124;1629195;601731;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+1125;1629203;601732;Primaria;Activo;Loreto;Datem del Marañón;Manseriche
+1126;1629211;601733;Primaria;Activo;Loreto;Datem del Marañón;Morona
+1127;1629229;601734;Primaria;Activo;Loreto;Datem del Marañón;Andoas
+1128;1662261;601735;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1129;1662279;601736;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1130;1704485;601737;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1131;1704493;601738;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1132;1704501;601739;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1133;398362;60174;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1134;1704519;601740;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1135;1704527;601741;Primaria;Activo;Loreto;Datem del Marañón;Pastaza
+1136;1703362;601742;Primaria;Activo;Loreto;Datem del Marañón;Manseriche
+1137;1703370;601743;Primaria;Activo;Loreto;Datem del Marañón;Manseriche
+1138;1703388;601744;Primaria;Activo;Loreto;Datem del Marañón;Manseriche
+1139;1703396;601745;Primaria;Activo;Loreto;Datem del Marañón;Manseriche
+1140;1703404;601746;Primaria;Activo;Loreto;Datem del Marañón;Cahuapanas
+1141;1740166;601747;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1142;1740174;601747;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+1143;1745298;601748;Secundaria;Activo;Loreto;Loreto;Nauta
+1144;399923;60175;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1145;1635697;601757;Primaria;Activo;Loreto;Loreto;Urarinas
+1146;1635705;601758;Primaria;Activo;Loreto;Loreto;Urarinas
+1147;1635713;601759;Primaria;Activo;Loreto;Loreto;Urarinas
+1148;399931;60176;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1149;1635721;601760;Primaria;Activo;Loreto;Loreto;Urarinas
+1150;1635739;601761;Primaria;Activo;Loreto;Loreto;Urarinas
+1151;1635747;601762;Primaria;Activo;Loreto;Loreto;Urarinas
+1152;1635754;601763;Primaria;Activo;Loreto;Loreto;Urarinas
+1153;1635762;601764;Primaria;Activo;Loreto;Loreto;Urarinas
+1154;1635770;601765;Primaria;Activo;Loreto;Loreto;Urarinas
+1155;1635788;601766;Primaria;Activo;Loreto;Loreto;Urarinas
+1156;1635796;601767;Primaria;Activo;Loreto;Loreto;Urarinas
+1157;1635804;601768;Primaria;Activo;Loreto;Loreto;Urarinas
+1158;1635812;601769;Primaria;Activo;Loreto;Loreto;Urarinas
+1159;399949;60177;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1160;1635820;601770;Primaria;Activo;Loreto;Loreto;Urarinas
+1161;1635838;601771;Primaria;Activo;Loreto;Loreto;Urarinas
+1162;1635846;601772;Primaria;Activo;Loreto;Loreto;Urarinas
+1163;1635853;601773;Primaria;Activo;Loreto;Loreto;Urarinas
+1164;1635861;601774;Primaria;Activo;Loreto;Loreto;Urarinas
+1165;1635879;601775;Primaria;Activo;Loreto;Loreto;Tigre
+1166;1670983;601776;Primaria;Activo;Loreto;Loreto;Trompeteros
+1167;1670991;601777;Primaria;Activo;Loreto;Loreto;Trompeteros
+1168;1691203;601778;Primaria;Activo;Loreto;Loreto;Trompeteros
+1169;1691211;601779;Primaria;Activo;Loreto;Loreto;Urarinas
+1170;1704923;601780;Primaria;Activo;Loreto;Loreto;Trompeteros
+1171;1704915;601781;Primaria;Activo;Loreto;Loreto;Trompeteros
+1172;1783877;601782;Primaria;Activo;Loreto;Maynas;Torres Causana
+1173;1783885;601783;Primaria;Activo;Loreto;Maynas;Torres Causana
+1174;1788124;601784 - BILINGUE;Primaria;Activo;Loreto;Maynas;Torres Causana
+1175;1788140;601785 - BILINGUE;Primaria;Activo;Loreto;Maynas;Torres Causana
+1176;1788165;601786 - BILINGUE;Primaria;Activo;Loreto;Maynas;Torres Causana
+1177;1788157;601787 - BILINGUE;Primaria;Activo;Loreto;Maynas;Torres Causana
+1178;1788132;601788 - BILINGUE;Primaria;Activo;Loreto;Maynas;Torres Causana
+1179;1784966;601789;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1180;399956;60179;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1181;1784974;601790;Primaria;Activo;Loreto;Putumayo;Putumayo
+1182;399964;60180;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1183;746438;60180;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+1184;398370;60181;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1185;203836;60182;Primaria;Activo;Loreto;Maynas;Belén
+1186;399972;60184;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1187;399980;60185;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1188;399998;60186;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1189;203844;60187 - SAN PEDRO DE SHISHITA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1190;1579770;60187 - SAN PEDRO DE SHISHITA;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1191;1532894;60188;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1192;400002;60188 SIMON BOLIVAR;Primaria;Activo;Loreto;Maynas;Iquitos
+1193;685016;60188 SIMON BOLIVAR;Secundaria;Activo;Loreto;Maynas;Iquitos
+1194;398388;60189;Primaria;Activo;Loreto;Maynas;Alto Nanay
+1195;720250;60189;Secundaria;Activo;Loreto;Maynas;Alto Nanay
+1196;398396;60190 BILINGÜE INTERCULTURAL;Primaria;Activo;Loreto;Maynas;Alto Nanay
+1197;1271386;60190 BILINGÜE INTERCULTURAL;Secundaria;Activo;Loreto;Maynas;Alto Nanay
+1198;398404;60191;Primaria;Activo;Loreto;Maynas;Alto Nanay
+1199;720268;60191;Secundaria;Activo;Loreto;Maynas;Alto Nanay
+1200;398412;60192;Primaria;Activo;Loreto;Maynas;Belén
+1201;203471;60194 SANTA ROSA;Primaria;Activo;Loreto;Maynas;Iquitos
+1202;839167;60195;Primaria;Activo;Loreto;Maynas;Punchana
+1203;682252;60196 AMELIA SOUZA FREITAS DE SALAZAR;Secundaria;Activo;Loreto;Maynas;Punchana
+1204;398784;60196 AMELIA SOUZA FREITAS SALAZAR;Primaria;Activo;Loreto;Maynas;Punchana
+1205;398792;60197;Primaria;Activo;Loreto;Maynas;Punchana
+1206;398800;60198 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Maynas;Punchana
+1207;398818;60199;Primaria;Activo;Loreto;Maynas;Punchana
+1208;398826;60200;Primaria;Activo;Loreto;Maynas;Punchana
+1209;203950;60201;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1210;720615;60201;Secundaria;Activo;Loreto;Maynas;Las Amazonas
+1211;400846;60202;Primaria;Activo;Loreto;Maynas;Indiana
+1212;720599;60202;Secundaria;Activo;Loreto;Maynas;Indiana
+1213;203968;60203;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1214;203976;60204;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1215;1307701;60204;Secundaria;Activo;Loreto;Maynas;Las Amazonas
+1216;203984;60205;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1217;203992;60206;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1218;204008;60207;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1219;400085;60208;Primaria;Activo;Loreto;Maynas;Mazan
+1220;1306364;60208;Secundaria;Activo;Loreto;Maynas;Mazan
+1221;204016;60209;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1222;204040;60210;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1223;1752658;60210;Secundaria;Activo;Loreto;Maynas;Las Amazonas
+1224;204032;60211;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1225;557710;60212;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1226;204057;60213;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1227;204065;60214;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1228;204073;60215;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1229;204081;60216;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1230;204099;60217;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1231;204107;60218;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1232;204115;60219;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1233;400853;60220;Primaria;Activo;Loreto;Maynas;Indiana
+1234;537514;60220;Secundaria;Activo;Loreto;Maynas;Indiana
+1235;400861;60221;Primaria;Activo;Loreto;Maynas;Indiana
+1236;1146976;60221;Secundaria;Activo;Loreto;Maynas;Indiana
+1237;400879;60222;Primaria;Activo;Loreto;Maynas;Punchana
+1238;1273804;60222;Secundaria;Activo;Loreto;Maynas;Punchana
+1239;400887;60223;Primaria;Activo;Loreto;Maynas;Indiana
+1240;1346550;60223;Secundaria;Activo;Loreto;Maynas;Indiana
+1241;400895;60224;Primaria;Activo;Loreto;Maynas;Indiana
+1242;720607;60224;Secundaria;Activo;Loreto;Maynas;Indiana
+1243;400911;60225 CIRO ALEGRIA BAZAN;Primaria;Activo;Loreto;Maynas;Indiana
+1244;400903;60226 CECILIA RUIZ DAVILA;Primaria;Activo;Loreto;Maynas;Indiana
+1245;400929;60227;Primaria;Activo;Loreto;Maynas;Belén
+1246;1363597;60227;Secundaria;Activo;Loreto;Maynas;Belén
+1247;400937;60228;Primaria;Activo;Loreto;Maynas;Indiana
+1248;1147016;60228;Secundaria;Activo;Loreto;Maynas;Indiana
+1249;400945;60229;Primaria;Activo;Loreto;Maynas;Indiana
+1250;400952;60230;Primaria;Activo;Loreto;Maynas;Indiana
+1251;1306331;60230;Secundaria;Activo;Loreto;Maynas;Indiana
+1252;400960;60231;Primaria;Activo;Loreto;Maynas;Indiana
+1253;400978;60232;Primaria;Activo;Loreto;Maynas;Indiana
+1254;400986;60233;Primaria;Activo;Loreto;Maynas;Indiana
+1255;400994;60234;Primaria;Activo;Loreto;Maynas;Indiana
+1256;1527605;60234;Secundaria;Activo;Loreto;Maynas;Indiana
+1257;1346568;60234;Secundaria;Inactivo;Loreto;Maynas;Indiana
+1258;401000;60235;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1259;401018;60236;Primaria;Activo;Loreto;Maynas;Indiana
+1260;204123;60238;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1261;1766252;60238;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1262;204131;60239;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1263;533018;60239;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1264;204149;60240 - BILINGUE INTERCULTURAL;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1265;1148675;60240 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1266;204156;60241 - PERUATE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1267;204164;60242 ARMANDO VALDEZ VILLACREZ;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1268;1148873;60242 ARMANDO VALDEZ VILLACREZ;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1269;204172;60243 - ISLA ZANCUDO;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1270;204180;60244 ANDRES ABELINO CACERES;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1271;737999;60244 ANDRES ABELINO CACERES;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1272;204198;60245;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1273;1796036;60245;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1274;204206;60246;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1275;264606;60247 - MICAELA BASTIDAS;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1276;264614;60248;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1277;264622;60249 - EMILIA BARCIA BONIFATTY;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1278;264630;60250;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1279;1539220;60250;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1280;264648;60251;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1281;264655;60252 EL AMAZONAS;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1282;264663;60253;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1283;264671;60254 - SANTA CLARA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1284;264689;60255;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1285;1794197;60255;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1286;264697;60256 - SABALILLO;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1287;264705;60257;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1288;1784024;60257;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1289;264713;60258;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1290;264721;60259;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1291;685073;60259;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1292;264739;60260;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1293;264747;60261 EL AMAUTA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1294;548750;60261 EL AMAUTA;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1295;264754;60262;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1296;738005;60262;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1297;264762;60263;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1298;264770;60264 - PALOMETA;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Pebas
+1299;1784016;60265 - BILINGÜE;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1300;397653;60265 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1301;397661;60266;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1302;397679;60267;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1303;397687;60269;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1304;397695;60270 SAN ANTONIO;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1305;397703;60271;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1306;397711;60272 - STA. MARTA - RAMON CASTILLA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1307;397729;60273;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1308;397737;60274;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1309;1790633;60274;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1310;397745;60275 - RONDIÑA I ZONA - RICARDO CRUZ FERNANDEZ;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1311;1695550;60275 RICARDO CRUZ FERNANDEZ;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1312;203273;60276 EUGENIO RIVERA LOPEZ;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1313;685065;60276 EUGENIO RIVERA LOPEZ;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1314;397752;60277;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1315;397760;60278;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1316;1794189;60278;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1317;397778;60279;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1318;1794213;60279;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1319;397786;60280 - AMPIYACU;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1320;397794;60281;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1321;397802;60282 - VISTA ALEGRE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1322;397810;60283 SAN SALVADOR;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1323;397828;60284;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1324;1781475;60284;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1325;397836;60285 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1326;397844;60286;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1327;400093;60289;Primaria;Activo;Loreto;Maynas;Mazan
+1328;400101;60292;Primaria;Activo;Loreto;Maynas;Mazan
+1329;1145028;60292;Secundaria;Activo;Loreto;Maynas;Mazan
+1330;400119;60293;Primaria;Activo;Loreto;Maynas;Mazan
+1331;400127;60294;Primaria;Activo;Loreto;Maynas;Mazan
+1332;400135;60295;Primaria;Activo;Loreto;Maynas;Mazan
+1333;400143;60296;Primaria;Activo;Loreto;Maynas;Mazan
+1334;400150;60297;Primaria;Activo;Loreto;Maynas;Mazan
+1335;400168;60298;Primaria;Activo;Loreto;Maynas;Mazan
+1336;400176;60299;Primaria;Activo;Loreto;Maynas;Mazan
+1337;400184;60300;Primaria;Activo;Loreto;Maynas;Mazan
+1338;400192;60301;Primaria;Activo;Loreto;Maynas;Mazan
+1339;1307750;60301;Secundaria;Activo;Loreto;Maynas;Mazan
+1340;400200;60302;Primaria;Activo;Loreto;Maynas;Mazan
+1341;1306372;60302;Secundaria;Activo;Loreto;Maynas;Mazan
+1342;400218;60303;Primaria;Activo;Loreto;Maynas;Mazan
+1343;1148808;60304 JORGE BASADRE GROHMAN;Primaria;Activo;Loreto;Maynas;Mazan
+1344;1321827;60304 JORGE BASADRE GROHMAN;Secundaria;Activo;Loreto;Maynas;Mazan
+1345;400234;60305;Primaria;Activo;Loreto;Maynas;Mazan
+1346;1782218;60305;Secundaria;Activo;Loreto;Maynas;Mazan
+1347;202150;60306;Primaria;Activo;Loreto;Maynas;Mazan
+1348;203000;60307;Primaria;Activo;Loreto;Maynas;Napo
+1349;203018;60308;Primaria;Activo;Loreto;Maynas;Napo
+1350;203026;60309;Primaria;Activo;Loreto;Maynas;Napo
+1351;203034;60310;Primaria;Activo;Loreto;Maynas;Napo
+1352;651596;60310;Secundaria;Activo;Loreto;Maynas;Napo
+1353;203042;60311;Primaria;Activo;Loreto;Maynas;Napo
+1354;203059;60312;Primaria;Activo;Loreto;Maynas;Napo
+1355;203067;60313;Primaria;Activo;Loreto;Maynas;Napo
+1356;1148303;60313;Secundaria;Activo;Loreto;Maynas;Napo
+1357;203075;60314;Primaria;Activo;Loreto;Maynas;Napo
+1358;203083;60315;Primaria;Activo;Loreto;Maynas;Napo
+1359;1307727;60315;Secundaria;Activo;Loreto;Maynas;Napo
+1360;203091;60316;Primaria;Activo;Loreto;Maynas;Napo
+1361;1749829;60316;Secundaria;Activo;Loreto;Maynas;Napo
+1362;203109;60317;Primaria;Activo;Loreto;Maynas;Napo
+1363;1148766;60317;Secundaria;Activo;Loreto;Maynas;Napo
+1364;203117;60318;Primaria;Activo;Loreto;Maynas;Napo
+1365;203125;60319;Primaria;Activo;Loreto;Maynas;Napo
+1366;203133;60320;Primaria;Activo;Loreto;Maynas;Napo
+1367;203141;60321;Primaria;Activo;Loreto;Maynas;Napo
+1368;203158;60322;Primaria;Activo;Loreto;Maynas;Napo
+1369;203166;60323;Primaria;Activo;Loreto;Maynas;Napo
+1370;1148386;60323;Secundaria;Activo;Loreto;Maynas;Napo
+1371;203174;60324;Primaria;Activo;Loreto;Maynas;Napo
+1372;1527332;60324;Secundaria;Activo;Loreto;Maynas;Napo
+1373;203182;60325;Primaria;Activo;Loreto;Maynas;Mazan
+1374;1145069;60325 - NUEVO SAN JUAN;Secundaria;Activo;Loreto;Maynas;Mazan
+1375;264788;60326;Primaria;Activo;Loreto;Maynas;Torres Causana
+1376;1148428;60326;Secundaria;Activo;Loreto;Maynas;Torres Causana
+1377;264796;60327;Primaria;Activo;Loreto;Maynas;Torres Causana
+1378;264804;60328;Primaria;Activo;Loreto;Maynas;Torres Causana
+1379;264812;60329;Primaria;Activo;Loreto;Maynas;Torres Causana
+1380;1148469;60329 - MONTERRICO;Secundaria;Activo;Loreto;Maynas;Torres Causana
+1381;264820;60330;Primaria;Activo;Loreto;Maynas;Mazan
+1382;203281;60331;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+1383;203299;60332 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1384;203307;60333;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1385;203315;60334;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1386;264838;60335;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1387;203331;60338;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1388;1414143;60338;Secundaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+1389;203349;60339 - ALBERTO FUJIMORI;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1390;203356;60340 - NUEVE NAZARETH;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Yavari
+1391;203364;60341;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1392;1306398;60342;Secundaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1393;399311;60342;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1394;399329;60343;Primaria;Activo;Loreto;Putumayo;Rosa Panduro
+1395;1147586;60343;Secundaria;Activo;Loreto;Putumayo;Rosa Panduro
+1396;399337;60344;Primaria;Activo;Loreto;Putumayo;Rosa Panduro
+1397;399345;60345;Primaria;Activo;Loreto;Putumayo;Yaguas
+1398;720284;60345 FRANCISCO REQUENA HERRERA;Secundaria;Activo;Loreto;Putumayo;Yaguas
+1399;399352;60346;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1400;399360;60347;Primaria;Activo;Loreto;Putumayo;Yaguas
+1401;1575414;60347;Secundaria;Activo;Loreto;Putumayo;Yaguas
+1402;399378;60348;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1403;1769157;60348;Secundaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1404;399386;60349;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1405;399394;60350;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1406;399402;60351;Primaria;Activo;Loreto;Putumayo;Rosa Panduro
+1407;399410;60352;Primaria;Activo;Loreto;Putumayo;Putumayo
+1408;399428;60353;Primaria;Activo;Loreto;Putumayo;Putumayo
+1409;399436;60354;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1410;399444;60355;Primaria;Activo;Loreto;Putumayo;Putumayo
+1411;399451;60356;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1412;399469;60357;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1413;399477;60358;Primaria;Activo;Loreto;Putumayo;Yaguas
+1414;399485;60359;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1415;399493;60360;Primaria;Activo;Loreto;Putumayo;Yaguas
+1416;399501;60361;Primaria;Activo;Loreto;Putumayo;Yaguas
+1417;399519;60362;Primaria;Activo;Loreto;Putumayo;Putumayo
+1418;399527;60363;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1419;264846;60366 - SAN MARTIN DE PORRAS;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Pebas
+1420;398834;60367 MIGUEL GRAU;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1421;398420;60368;Primaria;Activo;Loreto;Maynas;Belén
+1422;1153303;60369;Secundaria;Activo;Loreto;Maynas;Las Amazonas
+1423;398438;60369;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1424;264853;60370;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1425;1321819;60370;Secundaria;Activo;Loreto;Maynas;Las Amazonas
+1426;264861;60371;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1427;264879;60372;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1428;202168;60373;Primaria;Activo;Loreto;Maynas;Mazan
+1429;400010;60374;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1430;1307693;60374;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+1431;264887;60375 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1432;203372;60376 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1433;264895;60377;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1434;401067;60520 MIGUEL GRAU SEMINARIO;Primaria;Activo;Loreto;Loreto;Nauta
+1435;839670;60520 MIGUEL GRAU SEMINARIO;Secundaria;Activo;Loreto;Loreto;Nauta
+1436;401083;60522 FELIPE RAMON DOCUMET SILVA;Primaria;Activo;Loreto;Loreto;Nauta
+1437;1537240;60522 FELIPE RAMON DOCUMET SILVA;Secundaria;Activo;Loreto;Loreto;Nauta
+1438;397075;60523;Primaria;Activo;Loreto;Loreto;Nauta
+1439;528406;60523;Secundaria;Activo;Loreto;Loreto;Nauta
+1440;401091;60524 DAVID DAVILA VASQUEZ;Primaria;Activo;Loreto;Loreto;Nauta
+1441;839704;60524 DAVID DAVILA VASQUEZ;Secundaria;Activo;Loreto;Loreto;Nauta
+1442;401109;60525 SGTO. JUAN MONTALVAN APAGUEÑO;Primaria;Activo;Loreto;Loreto;Nauta
+1443;839738;60525 SGTO. JUAN MONTALVAN APAGUEÑO;Secundaria;Activo;Loreto;Loreto;Nauta
+1444;401117;60526 LA PAZ DEL MARAÑON;Primaria;Activo;Loreto;Loreto;Nauta
+1445;528307;60526 LA PAZ DEL MARAÑON;Secundaria;Activo;Loreto;Loreto;Nauta
+1446;401125;60527;Primaria;Activo;Loreto;Loreto;Nauta
+1447;265629;60528 HERMANOS PALLA;Primaria;Activo;Loreto;Loreto;Tigre
+1448;548057;60528 HERMANOS PALLA;Secundaria;Activo;Loreto;Loreto;Tigre
+1449;265637;60529;Primaria;Activo;Loreto;Loreto;Tigre
+1450;202234;60530;Primaria;Activo;Loreto;Loreto;Parinari
+1451;839910;60530;Secundaria;Activo;Loreto;Loreto;Parinari
+1452;528349;60531 RVDO P. AGUSTIN ALCALA FERNANDEZ;Secundaria;Activo;Loreto;Loreto;Parinari
+1453;202242;60531 RVDO. PADRE AGUSTIN ALCALA FERNANDEZ;Primaria;Activo;Loreto;Loreto;Parinari
+1454;202259;60532;Primaria;Activo;Loreto;Loreto;Parinari
+1455;839944;60532;Secundaria;Activo;Loreto;Loreto;Parinari
+1456;202267;60533;Primaria;Activo;Loreto;Loreto;Parinari
+1457;1538016;60533;Secundaria;Activo;Loreto;Loreto;Parinari
+1458;265645;60534 CESAR VALLEJO MENDOZA;Primaria;Activo;Loreto;Loreto;Urarinas
+1459;840090;60534 CESAR VALLEJO MENDOZA;Secundaria;Activo;Loreto;Loreto;Urarinas
+1460;401133;60535 JOSE SILVERIO NAVARRO GUERRA;Primaria;Activo;Loreto;Loreto;Nauta
+1461;839761;60535 JOSE SILVERIO NAVARRO GUERRA;Secundaria;Activo;Loreto;Loreto;Nauta
+1462;401141;60536;Primaria;Activo;Loreto;Loreto;Nauta
+1463;1537224;60536;Secundaria;Activo;Loreto;Loreto;Nauta
+1464;401158;60537;Primaria;Activo;Loreto;Loreto;Nauta
+1465;401174;60539;Primaria;Activo;Loreto;Loreto;Nauta
+1466;1149947;60539;Secundaria;Activo;Loreto;Loreto;Nauta
+1467;401182;60540;Primaria;Activo;Loreto;Loreto;Nauta
+1468;839795;60540;Secundaria;Activo;Loreto;Loreto;Nauta
+1469;401190;60541;Primaria;Activo;Loreto;Loreto;Tigre
+1470;401208;60542;Primaria;Activo;Loreto;Loreto;Nauta
+1471;1751262;60542;Secundaria;Activo;Loreto;Loreto;Nauta
+1472;265652;60543;Primaria;Activo;Loreto;Loreto;Nauta
+1473;1671031;60543;Secundaria;Activo;Loreto;Loreto;Nauta
+1474;401216;60544 ELIAS AGUIRRE ROMERO;Primaria;Activo;Loreto;Loreto;Nauta
+1475;566661;60544 ELIAS AGUIRRE ROMERO;Secundaria;Activo;Loreto;Loreto;Nauta
+1476;401224;60545 JOSE GALVEZ EGUZQUIZA;Primaria;Activo;Loreto;Loreto;Nauta
+1477;265660;60546;Primaria;Activo;Loreto;Loreto;Nauta
+1478;401232;60547;Primaria;Activo;Loreto;Loreto;Nauta
+1479;839829;60547;Secundaria;Activo;Loreto;Loreto;Nauta
+1480;401240;60548;Primaria;Activo;Loreto;Loreto;Nauta
+1481;1625714;60548;Secundaria;Activo;Loreto;Loreto;Nauta
+1482;401265;60551;Primaria;Activo;Loreto;Loreto;Nauta
+1483;401273;60552;Primaria;Activo;Loreto;Loreto;Nauta
+1484;202283;60554 IVAN ENRIQUE VASQUEZ VALERA;Primaria;Activo;Loreto;Loreto;Nauta
+1485;839977;60554 IVAN ENRIQUE VASQUEZ VALERA;Secundaria;Activo;Loreto;Loreto;Nauta
+1486;401299;60555;Primaria;Activo;Loreto;Loreto;Nauta
+1487;1405828;60555;Secundaria;Activo;Loreto;Loreto;Nauta
+1488;401307;60556;Primaria;Activo;Loreto;Loreto;Nauta
+1489;401315;60557;Primaria;Activo;Loreto;Loreto;Nauta
+1490;1752567;60557;Secundaria;Activo;Loreto;Loreto;Nauta
+1491;265678;60558;Primaria;Activo;Loreto;Loreto;Nauta
+1492;1537380;60558;Secundaria;Activo;Loreto;Loreto;Nauta
+1493;401323;60559;Primaria;Activo;Loreto;Loreto;Nauta
+1494;401331;60560;Primaria;Activo;Loreto;Loreto;Nauta
+1495;265686;60562;Primaria;Activo;Loreto;Loreto;Tigre
+1496;401349;60563;Primaria;Activo;Loreto;Loreto;Nauta
+1497;265694;60564;Primaria;Activo;Loreto;Loreto;Nauta
+1498;1152750;60564;Secundaria;Activo;Loreto;Loreto;Nauta
+1499;401356;60565;Primaria;Activo;Loreto;Loreto;Nauta
+1500;1782648;60565;Secundaria;Activo;Loreto;Loreto;Nauta
+1501;401364;60566;Primaria;Activo;Loreto;Loreto;Nauta
+1502;401372;60567;Primaria;Activo;Loreto;Loreto;Nauta
+1503;1340652;60567;Secundaria;Activo;Loreto;Loreto;Nauta
+1504;401380;60568;Primaria;Activo;Loreto;Loreto;Nauta
+1505;1537372;60570 PROF. MIGUEL AREVALO QUIROZ;Secundaria;Activo;Loreto;Loreto;Nauta
+1506;401398;60570 PROF.MIGUEL AREVALO QUIROZ;Primaria;Activo;Loreto;Loreto;Nauta
+1507;265702;60571;Primaria;Activo;Loreto;Loreto;Tigre
+1508;1671023;60571;Secundaria;Activo;Loreto;Loreto;Tigre
+1509;265710;60572;Primaria;Activo;Loreto;Loreto;Tigre
+1510;720995;60572;Secundaria;Activo;Loreto;Loreto;Tigre
+1511;265728;60573;Primaria;Activo;Loreto;Loreto;Tigre
+1512;1538404;60573;Secundaria;Activo;Loreto;Loreto;Tigre
+1513;265736;60574;Primaria;Activo;Loreto;Loreto;Tigre
+1514;1548197;60574;Secundaria;Activo;Loreto;Loreto;Tigre
+1515;265744;60575;Primaria;Activo;Loreto;Loreto;Tigre
+1516;265751;60576;Primaria;Activo;Loreto;Loreto;Trompeteros
+1517;1453323;60576;Secundaria;Activo;Loreto;Loreto;Trompeteros
+1518;265769;60577;Primaria;Activo;Loreto;Loreto;Trompeteros
+1519;1704881;60577;Secundaria;Activo;Loreto;Loreto;Trompeteros
+1520;265777;60578;Primaria;Activo;Loreto;Loreto;Tigre
+1521;202291;60579;Primaria;Activo;Loreto;Loreto;Urarinas
+1522;1793256;60579;Secundaria;Activo;Loreto;Loreto;Urarinas
+1523;840009;60580;Secundaria;Inactivo;Loreto;Loreto;Parinari
+1524;202309;60580 LAURA AMANDA MORI DE FLORES;Primaria;Activo;Loreto;Loreto;Parinari
+1525;1537232;60581;Primaria;Activo;Loreto;Loreto;Nauta
+1526;202325;60582;Primaria;Activo;Loreto;Loreto;Parinari
+1527;1794304;60582;Secundaria;Activo;Loreto;Loreto;Parinari
+1528;202333;60583 PROF. JOSE LUIS IZQUIERDO PINEDO;Primaria;Activo;Loreto;Loreto;Parinari
+1529;202341;60584;Primaria;Activo;Loreto;Loreto;Parinari
+1530;202358;60585;Primaria;Activo;Loreto;Loreto;Parinari
+1531;840033;60585;Secundaria;Activo;Loreto;Loreto;Parinari
+1532;202366;60586;Primaria;Activo;Loreto;Loreto;Parinari
+1533;202374;60587;Primaria;Activo;Loreto;Loreto;Parinari
+1534;202382;60588;Primaria;Activo;Loreto;Loreto;Parinari
+1535;840066;60588;Secundaria;Activo;Loreto;Loreto;Parinari
+1536;265785;60589;Primaria;Activo;Loreto;Loreto;Urarinas
+1537;1150341;60589;Secundaria;Activo;Loreto;Loreto;Urarinas
+1538;202390;60590;Primaria;Activo;Loreto;Loreto;Parinari
+1539;1538024;60590;Secundaria;Activo;Loreto;Loreto;Parinari
+1540;202408;60591;Primaria;Activo;Loreto;Loreto;Parinari
+1541;265793;60592;Primaria;Activo;Loreto;Loreto;Urarinas
+1542;265801;60594 JOSE ABELARDO QUIÑONES GONZALES;Primaria;Activo;Loreto;Loreto;Urarinas
+1543;803916;60594 JOSE ABELARDO QUIÑONES GONZALES;Secundaria;Activo;Loreto;Loreto;Urarinas
+1544;265827;60597;Primaria;Activo;Loreto;Loreto;Urarinas
+1545;265835;60598;Primaria;Activo;Loreto;Loreto;Urarinas
+1546;1625730;60598;Secundaria;Activo;Loreto;Loreto;Urarinas
+1547;265843;60599;Primaria;Activo;Loreto;Loreto;Urarinas
+1548;265850;60600;Primaria;Activo;Loreto;Loreto;Urarinas
+1549;265868;60602;Primaria;Activo;Loreto;Loreto;Urarinas
+1550;265884;60605;Primaria;Activo;Loreto;Loreto;Urarinas
+1551;265892;60606;Primaria;Activo;Loreto;Loreto;Urarinas
+1552;265900;60607;Primaria;Activo;Loreto;Loreto;Parinari
+1553;265918;60608;Primaria;Activo;Loreto;Loreto;Urarinas
+1554;1782721;60608;Secundaria;Activo;Loreto;Loreto;Urarinas
+1555;397125;60610 TARAPACA;Primaria;Activo;Loreto;Requena;Requena
+1556;397158;60613 MANAOS;Primaria;Activo;Loreto;Requena;Requena
+1557;397190;60614;Primaria;Inactivo;Loreto;Requena;Requena
+1558;397208;60615;Primaria;Activo;Loreto;Requena;Requena
+1559;1145226;60615;Secundaria;Activo;Loreto;Requena;Requena
+1560;266049;60616;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1561;266064;60618 DIVINO NIÑO JESUS;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1562;1576982;60618 DIVINO NIÑO JESUS;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+1563;266072;60619;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1564;1791086;60619;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+1565;266106;60622;Primaria;Activo;Loreto;Requena;Capelo
+1566;1765064;60622;Secundaria;Activo;Loreto;Requena;Capelo
+1567;266114;60623;Primaria;Activo;Loreto;Requena;Saquena
+1568;551473;60623;Secundaria;Activo;Loreto;Requena;Saquena
+1569;397216;60625 GUSTAVO BARTRA VALDIVIEZO;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+1570;551374;60625 GUSTAVO BARTRA VALDIVIEZO;Secundaria;Activo;Loreto;Requena;Jenaro Herrera
+1571;266130;60627 CESAR VALLEJO;Primaria;Activo;Loreto;Requena;Saquena
+1572;1155324;60627 CESAR VALLEJO;Secundaria;Activo;Loreto;Requena;Saquena
+1573;300210;60629;Primaria;Activo;Loreto;Requena;Saquena
+1574;300285;60630;Primaria;Activo;Loreto;Requena;Saquena
+1575;300392;60632 CORINA CABRERA BURGA;Primaria;Activo;Loreto;Requena;Puinahua
+1576;1540533;60632 CORINA CABRERA BURGA;Secundaria;Activo;Loreto;Requena;Puinahua
+1577;300400;60633;Primaria;Activo;Loreto;Requena;Puinahua
+1578;300426;60635;Primaria;Activo;Loreto;Requena;Maquia
+1579;1629104;60635;Secundaria;Activo;Loreto;Requena;Maquia
+1580;300434;60636;Primaria;Activo;Loreto;Requena;Maquia
+1581;1540459;60636;Secundaria;Activo;Loreto;Requena;Maquia
+1582;300442;60637;Primaria;Activo;Loreto;Requena;Maquia
+1583;721522;60637;Secundaria;Activo;Loreto;Requena;Maquia
+1584;300459;60638;Primaria;Activo;Loreto;Requena;Alto Tapiche
+1585;685099;60638;Secundaria;Activo;Loreto;Requena;Alto Tapiche
+1586;300467;60639;Primaria;Activo;Loreto;Requena;Tapiche
+1587;1149251;60639;Secundaria;Activo;Loreto;Requena;Tapiche
+1588;397281;60640;Primaria;Activo;Loreto;Requena;Requena
+1589;397307;60641;Primaria;Activo;Loreto;Requena;Alto Tapiche
+1590;397323;60644 VICTOR RAUL H. DE LA TORRE;Primaria;Activo;Loreto;Requena;Requena
+1591;397349;60647;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+1592;1775469;60647;Secundaria;Activo;Loreto;Requena;Jenaro Herrera
+1593;397356;60648;Primaria;Activo;Loreto;Requena;Requena
+1594;397364;60649;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+1595;397372;60650;Primaria;Activo;Loreto;Requena;Requena
+1596;1776061;60650;Secundaria;Activo;Loreto;Requena;Requena
+1597;397380;60651;Primaria;Activo;Loreto;Requena;Requena
+1598;397398;60652;Primaria;Activo;Loreto;Requena;Requena
+1599;397406;60653;Primaria;Activo;Loreto;Requena;Requena
+1600;397414;60654;Primaria;Activo;Loreto;Requena;Requena
+1601;397422;60655;Primaria;Activo;Loreto;Requena;Requena
+1602;397430;60656;Primaria;Activo;Loreto;Requena;Requena
+1603;397448;60657 LIBERTADOR SIMON BOLIVAR;Primaria;Activo;Loreto;Requena;Requena
+1604;1209774;60657 LIBERTADOR SIMON BOLIVAR;Secundaria;Activo;Loreto;Requena;Requena
+1605;397455;60658;Primaria;Activo;Loreto;Requena;Requena
+1606;1743236;60658;Secundaria;Activo;Loreto;Requena;Requena
+1607;397463;60660;Primaria;Activo;Loreto;Requena;Requena
+1608;300475;60661;Primaria;Activo;Loreto;Requena;Capelo
+1609;300483;60662;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1610;300491;60663;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1611;1538750;60664;Primaria;Activo;Loreto;Loreto;Urarinas
+1612;300509;60664;Primaria;Activo;Loreto;Requena;Puinahua
+1613;300517;60665;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1614;1791656;60665;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+1615;300525;60666;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1616;1767599;60666;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+1617;300541;60667;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1618;1155514;60667;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+1619;300558;60668;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1620;300566;60669;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1621;300574;60670;Primaria;Inactivo;Loreto;Requena;Emilio San Martín
+1622;300582;60671;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1623;1540558;60671;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+1624;1542067;60671;Secundaria;Inactivo;Loreto;Requena;Emilio San Martín
+1625;300590;60672;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1626;300608;60673 ALBERTO VILCHEZ MARTINEZ;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1627;1155472;60673 ALBERTO VILCHEZ MARTINEZ;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+1628;300616;60674;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1629;1793272;60674;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+1630;300624;60675;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1631;300632;60676;Primaria;Activo;Loreto;Requena;Puinahua
+1632;300640;60677;Primaria;Activo;Loreto;Requena;Saquena
+1633;300657;60678;Primaria;Activo;Loreto;Requena;Capelo
+1634;1151307;60678;Secundaria;Activo;Loreto;Requena;Capelo
+1635;1149772;60679;Primaria;Activo;Loreto;Requena;Capelo
+1636;300673;60680;Primaria;Activo;Loreto;Requena;Maquia
+1637;300681;60681;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1638;1767573;60681;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+1639;397489;60682;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+1640;1148550;60683;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+1641;397505;60684;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+1642;1576990;60684;Secundaria;Activo;Loreto;Requena;Jenaro Herrera
+1643;397513;60686;Primaria;Inactivo;Loreto;Requena;Jenaro Herrera
+1644;300707;60687;Primaria;Activo;Loreto;Loreto;Nauta
+1645;300715;60688;Primaria;Activo;Loreto;Requena;Saquena
+1646;300731;60690;Primaria;Activo;Loreto;Requena;Saquena
+1647;300749;60691;Primaria;Activo;Loreto;Requena;Saquena
+1648;300756;60692;Primaria;Activo;Loreto;Requena;Saquena
+1649;300764;60693 MENSAJERO DE LA PAZ;Primaria;Activo;Loreto;Requena;Saquena
+1650;300772;60694;Primaria;Activo;Loreto;Requena;Saquena
+1651;401406;60695 NUESTRA SEÑORA DE AMAZONAS;Primaria;Activo;Loreto;Loreto;Nauta
+1652;803940;60695 NUESTRA SEÑORA DE AMAZONAS;Secundaria;Activo;Loreto;Loreto;Nauta
+1653;300798;60696;Primaria;Activo;Loreto;Requena;Puinahua
+1654;1155241;60696;Secundaria;Activo;Loreto;Requena;Puinahua
+1655;300806;60697;Primaria;Activo;Loreto;Requena;Puinahua
+1656;1759885;60697;Secundaria;Activo;Loreto;Requena;Puinahua
+1657;1154277;60700 JUAN PABLO II;Primaria;Activo;Loreto;Requena;Requena
+1658;1262534;60700 JUAN PABLO II;Secundaria;Activo;Loreto;Requena;Requena
+1659;1155357;60702;Primaria;Activo;Loreto;Requena;Puinahua
+1660;300855;60703;Primaria;Activo;Loreto;Requena;Puinahua
+1661;1735067;60703;Secundaria;Activo;Loreto;Requena;Puinahua
+1662;300863;60704;Primaria;Activo;Loreto;Requena;Puinahua
+1663;300871;60705;Primaria;Activo;Loreto;Requena;Puinahua
+1664;1577006;60705;Secundaria;Activo;Loreto;Requena;Puinahua
+1665;300889;60706;Primaria;Activo;Loreto;Requena;Puinahua
+1666;300897;60707;Primaria;Activo;Loreto;Requena;Puinahua
+1667;300905;60708;Primaria;Activo;Loreto;Requena;Puinahua
+1668;300939;60711 MONS. VICTOR DE LA PEÑA PEREZ;Primaria;Activo;Loreto;Requena;Maquia
+1669;721530;60711 MONS. VICTOR DE LA PEÑA PEREZ;Secundaria;Activo;Loreto;Requena;Maquia
+1670;300947;60712;Primaria;Activo;Loreto;Requena;Maquia
+1671;300954;60713;Primaria;Activo;Loreto;Requena;Maquia
+1672;1756055;60713;Secundaria;Activo;Loreto;Requena;Maquia
+1673;300962;60714 LUIS GUILLERMO PEZO DELERNA;Primaria;Activo;Loreto;Requena;Maquia
+1674;1155126;60714 LUIS GUILLERMO PEZO DELERNA;Secundaria;Activo;Loreto;Requena;Maquia
+1675;300970;60715;Primaria;Activo;Loreto;Requena;Maquia
+1676;1209733;60715;Secundaria;Activo;Loreto;Requena;Maquia
+1677;300988;60716;Primaria;Activo;Loreto;Requena;Maquia
+1678;1765072;60716;Secundaria;Activo;Loreto;Requena;Maquia
+1679;300996;60717;Primaria;Activo;Loreto;Requena;Maquia
+1680;301002;60718;Primaria;Activo;Loreto;Requena;Maquia
+1681;1756063;60718;Secundaria;Activo;Loreto;Requena;Maquia
+1682;301010;60719;Primaria;Activo;Loreto;Requena;Maquia
+1683;1794783;60719;Secundaria;Activo;Loreto;Requena;Maquia
+1684;301028;60720;Primaria;Activo;Loreto;Requena;Maquia
+1685;1209659;60720;Secundaria;Activo;Loreto;Requena;Maquia
+1686;301036;60721;Primaria;Activo;Loreto;Requena;Maquia
+1687;301044;60722;Primaria;Activo;Loreto;Requena;Maquia
+1688;301051;60723;Primaria;Activo;Loreto;Requena;Saquena
+1689;301069;60724;Primaria;Activo;Loreto;Requena;Maquia
+1690;301077;60725;Primaria;Activo;Loreto;Requena;Maquia
+1691;1155167;60725;Secundaria;Activo;Loreto;Requena;Maquia
+1692;301085;60726;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1693;1767565;60726;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+1694;301093;60727;Primaria;Activo;Loreto;Requena;Maquia
+1695;301101;60728;Primaria;Activo;Loreto;Requena;Maquia
+1696;301119;60729;Primaria;Activo;Loreto;Requena;Maquia
+1697;1149491;60730;Primaria;Activo;Loreto;Requena;Alto Tapiche
+1698;301135;60731;Primaria;Activo;Loreto;Requena;Requena
+1699;301143;60732;Primaria;Activo;Loreto;Requena;Requena
+1700;301150;60733;Primaria;Activo;Loreto;Requena;Maquia
+1701;301168;60734;Primaria;Activo;Loreto;Requena;Alto Tapiche
+1702;301176;60735;Primaria;Activo;Loreto;Requena;Alto Tapiche
+1703;301184;60736;Primaria;Activo;Loreto;Requena;Alto Tapiche
+1704;301192;60737;Primaria;Activo;Loreto;Requena;Requena
+1705;301200;60738;Primaria;Activo;Loreto;Requena;Alto Tapiche
+1706;301218;60739;Primaria;Activo;Loreto;Requena;Tapiche
+1707;301291;60740 VICTORIA ABAD CORREA;Primaria;Activo;Loreto;Requena;Maquia
+1708;721548;60740 VICTORIA ABAD CORREA;Secundaria;Activo;Loreto;Requena;Maquia
+1709;397521;60741 JOSE SILVERIO BALANDRA;Primaria;Activo;Loreto;Requena;Soplin
+1710;1155407;60741 JOSE SILVERIO BALANDRA;Secundaria;Activo;Loreto;Requena;Soplin
+1711;397539;60742;Primaria;Activo;Loreto;Requena;Jenaro Herrera
+1712;398446;60743 ENRY HERVE LINARES SOTO;Primaria;Activo;Loreto;Maynas;Belén
+1713;1563238;60743 ENRY HERVE LINARES SOTO;Secundaria;Activo;Loreto;Maynas;Belén
+1714;398453;60744 INGENIERA CARMELA BAOS RIOS;Primaria;Activo;Loreto;Maynas;Iquitos
+1715;1147578;60744 INGENIERA CARMELA BAOS RIOS;Secundaria;Activo;Loreto;Maynas;Iquitos
+1716;400044;60745;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1717;400051;60746;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1718;264903;60746 - YARINA DE SANTA CLARA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1719;203380;60747 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1720;1795822;60747 BILINGUE INTERCULTURAL;Secundaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1721;398842;60747 DIVINO MAESTRO;Primaria;Activo;Loreto;Maynas;Iquitos
+1722;397851;60748 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1723;401026;60749;Primaria;Activo;Loreto;Maynas;Indiana
+1724;202176;60750;Primaria;Activo;Loreto;Maynas;Mazan
+1725;1148840;60751;Primaria;Activo;Loreto;Maynas;Mazan
+1726;203190;60752;Primaria;Activo;Loreto;Maynas;Napo
+1727;203208;60753;Primaria;Activo;Loreto;Maynas;Mazan
+1728;1307743;60753;Secundaria;Activo;Loreto;Maynas;Mazan
+1729;398461;60754;Primaria;Activo;Loreto;Maynas;Iquitos
+1730;401034;60755;Primaria;Activo;Loreto;Maynas;Belén
+1731;1147891;60755;Secundaria;Activo;Loreto;Maynas;Belén
+1732;398859;60756 CLAVERITO;Primaria;Activo;Loreto;Maynas;Iquitos
+1733;1527225;60756 CLAVERITO;Secundaria;Activo;Loreto;Maynas;Iquitos
+1734;203216;60757;Primaria;Activo;Loreto;Maynas;Napo
+1735;203224;60758;Primaria;Activo;Loreto;Maynas;Napo
+1736;203232;60759;Primaria;Activo;Loreto;Maynas;Torres Causana
+1737;264911;60761;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1738;397869;60761 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1739;399543;60762;Primaria;Activo;Loreto;Putumayo;Yaguas
+1740;397877;60766;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1741;397885;60767 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1742;397893;60768 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1743;397901;60769 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1744;203240;60770;Primaria;Activo;Loreto;Maynas;Napo
+1745;1642420;60770;Secundaria;Activo;Loreto;Maynas;Napo
+1746;203257;60771;Primaria;Activo;Loreto;Maynas;Mazan
+1747;266023;60772 JUAN PABLO II;Primaria;Activo;Loreto;Loreto;Urarinas
+1748;803973;60772 JUAN PABLO II;Secundaria;Activo;Loreto;Loreto;Urarinas
+1749;264929;60773;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1750;202416;60773;Primaria;Activo;Loreto;Loreto;Parinari
+1751;473363;60774;Primaria;Activo;Loreto;Maynas;Mazan
+1752;401414;60774;Primaria;Activo;Loreto;Loreto;Nauta
+1753;1537323;60774-II;Primaria;Inactivo;Loreto;Loreto;Nauta
+1754;264937;60775;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1755;401422;60775 HECTOR ISUIZA HIDALGO;Primaria;Activo;Loreto;Loreto;Nauta
+1756;1149988;60775 HECTOR ISUIZA HIDALGO;Secundaria;Activo;Loreto;Loreto;Nauta
+1757;265934;60776;Primaria;Activo;Loreto;Loreto;Tigre
+1758;397919;60776;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1759;265942;60777;Primaria;Activo;Loreto;Loreto;Urarinas
+1760;1781368;60777;Secundaria;Activo;Loreto;Loreto;Urarinas
+1761;203398;60777 - POBRE ALEGRE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1762;398479;60778;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1763;1346576;60778;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+1764;265959;60779;Primaria;Activo;Loreto;Loreto;Tigre
+1765;1791235;60779;Secundaria;Activo;Loreto;Loreto;Tigre
+1766;401430;60780;Primaria;Activo;Loreto;Loreto;Nauta
+1767;397547;60780;Primaria;Inactivo;Loreto;Requena;Alto Tapiche
+1768;1155431;60780;Primaria;Activo;Loreto;Requena;Saquena
+1769;1759893;60780;Secundaria;Activo;Loreto;Requena;Saquena
+1770;202424;60781;Primaria;Activo;Loreto;Loreto;Parinari
+1771;301234;60781;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1772;1154798;60781;Primaria;Activo;Loreto;Requena;Soplin
+1773;265967;60782;Primaria;Activo;Loreto;Loreto;Nauta
+1774;397554;60782;Primaria;Activo;Loreto;Requena;Requena
+1775;477844;60782;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1776;397562;60783;Primaria;Activo;Loreto;Requena;Requena
+1777;265975;60783 MARIA PARADO DE BELLIDO;Primaria;Activo;Loreto;Loreto;Tigre
+1778;1369073;60783 MARIA PARADO DE BELLIDO;Secundaria;Activo;Loreto;Loreto;Tigre
+1779;265983;60784;Primaria;Activo;Loreto;Loreto;Trompeteros
+1780;1781442;60784;Secundaria;Activo;Loreto;Loreto;Trompeteros
+1781;301242;60784 JOSE JAVIER GARCIA OLORTEGUI;Primaria;Activo;Loreto;Requena;Puinahua
+1782;1155282;60784 JOSE JAVIER GARCIA OLORTEGUI;Secundaria;Activo;Loreto;Requena;Puinahua
+1783;301259;60785;Primaria;Activo;Loreto;Requena;Maquia
+1784;301267;60786;Primaria;Activo;Loreto;Requena;Maquia
+1785;301275;60787;Primaria;Activo;Loreto;Requena;Emilio San Martín
+1786;1786896;60787;Secundaria;Activo;Loreto;Requena;Emilio San Martín
+1787;301283;60788;Primaria;Activo;Loreto;Requena;Puinahua
+1788;397570;60789 SARGENTO II FERNANDO LORES;Primaria;Activo;Loreto;Requena;Requena
+1789;265991;60790;Primaria;Activo;Loreto;Loreto;Trompeteros
+1790;1149137;60790;Secundaria;Activo;Loreto;Loreto;Trompeteros
+1791;400689;60793;Primaria;Activo;Loreto;Maynas;Iquitos
+1792;682260;60793 TUPAC AMARU;Secundaria;Activo;Loreto;Maynas;Iquitos
+1793;401042;60794;Primaria;Activo;Loreto;Maynas;Indiana
+1794;397927;60795 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1795;397935;60796;Primaria;Inactivo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1796;397943;60797;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1797;398487;60798;Primaria;Activo;Loreto;Maynas;Belén
+1798;398867;60799 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Maynas;Punchana
+1799;473389;60800;Primaria;Activo;Loreto;Loreto;Nauta
+1800;264945;60801;Primaria;Activo;Loreto;Maynas;Torres Causana
+1801;473397;60805 - VILLA SANTA ROSA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1802;473405;60806;Primaria;Activo;Loreto;Putumayo;Putumayo
+1803;473413;60807;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1804;473421;60808;Primaria;Activo;Loreto;Maynas;Mazan
+1805;264952;60809;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1806;1306414;60809;Secundaria;Activo;Loreto;Maynas;Las Amazonas
+1807;473439;60810;Primaria;Activo;Loreto;Maynas;Belén
+1808;473447;60811 HEROE NACIONAL FEDERICO MURAYARI SILVANO;Primaria;Activo;Loreto;Loreto;Nauta
+1809;473462;60813;Primaria;Activo;Loreto;Maynas;Torres Causana
+1810;473470;60814;Primaria;Activo;Loreto;Maynas;Napo
+1811;1573617;60814;Secundaria;Activo;Loreto;Maynas;Napo
+1812;473488;60815;Primaria;Activo;Loreto;Maynas;Napo
+1813;473496;60816 ALMIRANTE MIGUEL GRAU;Primaria;Activo;Loreto;Requena;Yaquerana
+1814;685057;60816 ALMIRANTE MIGUEL GRAU;Secundaria;Activo;Loreto;Requena;Yaquerana
+1815;473504;60818;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1816;473512;60820;Primaria;Activo;Loreto;Loreto;Nauta
+1817;1782663;60820;Secundaria;Activo;Loreto;Loreto;Nauta
+1818;473538;60822;Primaria;Activo;Loreto;Maynas;Napo
+1819;473553;60825;Primaria;Activo;Loreto;Loreto;Urarinas
+1820;400770;60826 ELEODORO BUSTAMANTE LOPEZ;Primaria;Activo;Loreto;Maynas;Iquitos
+1821;473561;60827;Primaria;Activo;Loreto;Loreto;Nauta
+1822;473587;60829;Primaria;Activo;Loreto;Maynas;Indiana
+1823;490839;60831;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1824;1150705;60831;Secundaria;Activo;Loreto;Maynas;Fernando Lores
+1825;490821;60832 IVAN ENRIQUE VASQUEZ VALERA;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1826;490813;60833;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1827;490805;60834;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1828;504290;60835 RAFAEL SEGUNDO VASQUEZ GARCIA;Primaria;Activo;Loreto;Loreto;Nauta
+1829;839852;60835 RAFAEL SEGUNDO VASQUEZ GARCIA;Secundaria;Activo;Loreto;Loreto;Nauta
+1830;549873;60836;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1831;552273;60838;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1832;547760;60839;Primaria;Activo;Loreto;Maynas;Punchana
+1833;1527480;60839;Secundaria;Activo;Loreto;Maynas;Punchana
+1834;550079;60841;Primaria;Activo;Loreto;Putumayo;Yaguas
+1835;551077;60842;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1836;549469;60843;Primaria;Activo;Loreto;Maynas;Mazan
+1837;547166;60848;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1838;549253;60849;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1839;490888;60850;Primaria;Activo;Loreto;Loreto;Tigre
+1840;548347;60854;Primaria;Activo;Loreto;Loreto;Urarinas
+1841;548248;60855;Primaria;Activo;Loreto;Loreto;Urarinas
+1842;551978;60856;Primaria;Activo;Loreto;Loreto;Nauta
+1843;548362;60857;Primaria;Activo;Loreto;Maynas;Torres Causana
+1844;490862;60858;Primaria;Activo;Loreto;Maynas;Napo
+1845;264960;60864;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1846;202200;60865;Primaria;Activo;Loreto;Loreto;Parinari
+1847;1765122;60865;Secundaria;Activo;Loreto;Loreto;Parinari
+1848;202192;60866;Primaria;Activo;Loreto;Loreto;Parinari
+1849;840124;60866;Secundaria;Activo;Loreto;Loreto;Parinari
+1850;202218;60867;Primaria;Activo;Loreto;Loreto;Parinari
+1851;1340637;60867;Secundaria;Activo;Loreto;Loreto;Parinari
+1852;1154848;60868 ING. JOSE TORRES VASQUEZ;Secundaria;Activo;Loreto;Loreto;Parinari
+1853;202226;60868 JOSE TORRES VASQUEZ;Primaria;Activo;Loreto;Loreto;Parinari
+1854;266015;60870;Primaria;Activo;Loreto;Loreto;Urarinas
+1855;266007;60871;Primaria;Activo;Loreto;Loreto;Urarinas
+1856;1794296;60871;Secundaria;Activo;Loreto;Loreto;Urarinas
+1857;397083;60872 ROSA MARIA SILVA DE NOGUEIRA;Primaria;Activo;Loreto;Loreto;Nauta
+1858;566638;60872 ROSA MARIA SILVA DE NOGUEIRA;Secundaria;Activo;Loreto;Loreto;Nauta
+1859;397067;60873;Primaria;Activo;Loreto;Loreto;Nauta
+1860;397091;60874;Primaria;Activo;Loreto;Requena;Requena
+1861;552174;60876;Primaria;Activo;Loreto;Maynas;Indiana
+1862;504498;60877;Primaria;Activo;Loreto;Loreto;Nauta
+1863;551176;60878;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Yavari
+1864;551275;60879 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Ramón Castilla
+1865;549972;60887;Primaria;Activo;Loreto;Putumayo;Putumayo
+1866;549774;60888;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1867;549675;60889;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1868;549576;60890;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1869;549360;60891;Primaria;Activo;Loreto;Maynas;Mazan
+1870;549261;60892;Primaria;Activo;Loreto;Maynas;Mazan
+1871;549162;60893;Primaria;Activo;Loreto;Maynas;Mazan
+1872;548263;60895;Primaria;Activo;Loreto;Maynas;Napo
+1873;547067;60896;Primaria;Activo;Loreto;Maynas;Iquitos
+1874;546960;60897;Primaria;Activo;Loreto;Maynas;Alto Nanay
+1875;546861;60898;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1876;546762;60899;Primaria;Activo;Loreto;Maynas;Punchana
+1877;546663;60900;Primaria;Activo;Loreto;Maynas;Belén
+1878;549451;60901;Primaria;Activo;Loreto;Maynas;Belén
+1879;549154;60902 - NAZARETH MONTE ISRAEL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1880;490896;60903;Primaria;Activo;Loreto;Loreto;Tigre
+1881;548354;60904 TNTE. CESAR A. LOPEZ ROJAS;Primaria;Activo;Loreto;Loreto;Trompeteros
+1882;721001;60904 TNTE. CESAR A. LOPEZ ROJAS;Secundaria;Activo;Loreto;Loreto;Trompeteros
+1883;548255;60905;Primaria;Activo;Loreto;Loreto;Trompeteros
+1884;1739457;60905;Secundaria;Activo;Loreto;Loreto;Trompeteros
+1885;551879;60915;Primaria;Activo;Loreto;Loreto;Nauta
+1886;551572;60916;Primaria;Activo;Loreto;Requena;Saquena
+1887;551770;60917;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1888;549063;60918;Primaria;Activo;Loreto;Maynas;Mazan
+1889;721555;60918;Secundaria;Activo;Loreto;Maynas;Mazan
+1890;548966;60919;Primaria;Activo;Loreto;Maynas;Mazan
+1891;1148881;60920;Primaria;Activo;Loreto;Maynas;Mazan
+1892;548164;60922;Primaria;Activo;Loreto;Maynas;Napo
+1893;548065;60923;Primaria;Activo;Loreto;Maynas;Napo
+1894;547968;60924;Primaria;Activo;Loreto;Maynas;Napo
+1895;1148683;60925;Primaria;Activo;Loreto;Maynas;Napo
+1896;481135;60926;Primaria;Activo;Loreto;Maynas;Alto Nanay
+1897;549352;60927;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1898;1148717;60928 - BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1899;548958;60929 BILINGUE INTERCULTURAL;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1900;512830;60930;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1901;548651;60931 SARGETO LORES DE CAMOTE ISLA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1902;548156;60932 GUARDIANES DE FRONTERA;Primaria;Activo;Loreto;Loreto;Trompeteros
+1903;1150226;60932 GUARDIANES DE FRONTERA;Secundaria;Activo;Loreto;Loreto;Trompeteros
+1904;548040;60939;Primaria;Activo;Loreto;Loreto;Urarinas
+1905;547943;60940;Primaria;Activo;Loreto;Loreto;Urarinas
+1906;1785351;60940;Secundaria;Activo;Loreto;Loreto;Urarinas
+1907;547745;60942;Primaria;Activo;Loreto;Loreto;Urarinas
+1908;1538859;60942;Secundaria;Activo;Loreto;Loreto;Urarinas
+1909;551671;60944;Primaria;Activo;Loreto;Loreto;Nauta
+1910;1793934;60944;Secundaria;Activo;Loreto;Loreto;Nauta
+1911;531368;60946 MARISCAL OSCAR R. BENAVIDES;Primaria;Activo;Loreto;Maynas;Iquitos
+1912;512137;60947;Primaria;Activo;Loreto;Loreto;Nauta
+1913;1150028;60947;Secundaria;Activo;Loreto;Loreto;Nauta
+1914;556811;60948;Primaria;Activo;Loreto;Requena;Yaquerana
+1915;1793017;60948;Secundaria;Activo;Loreto;Requena;Yaquerana
+1916;512533;60951;Primaria;Activo;Loreto;Maynas;Mazan
+1917;546283;60952;Primaria;Activo;Loreto;Requena;Soplin
+1918;556845;60953;Primaria;Activo;Loreto;Loreto;Tigre
+1919;544189;60954;Primaria;Activo;Loreto;Requena;Yaquerana
+1920;512434;60955;Primaria;Activo;Loreto;Maynas;Belén
+1921;572909;60956;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1922;203760;60957;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1923;531566;60958;Primaria;Activo;Loreto;Requena;Maquia
+1924;544080;60959;Primaria;Activo;Loreto;Maynas;Indiana
+1925;1148329;60960;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1926;1306380;60960;Secundaria;Activo;Loreto;Maynas;San Juan Bautista
+1927;556878;60961;Primaria;Activo;Loreto;Maynas;Belén
+1928;556902;60962;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1929;556936;60963;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1930;572933;60964;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1931;556993;60965;Primaria;Activo;Loreto;Putumayo;Teniente Manuel Clavero
+1932;557025;60966;Primaria;Activo;Loreto;Loreto;Parinari
+1933;557058;60967;Primaria;Activo;Loreto;Loreto;Parinari
+1934;557082;60968;Primaria;Activo;Loreto;Loreto;Parinari
+1935;557116;60969;Primaria;Activo;Loreto;Maynas;Napo
+1936;1148725;60970;Primaria;Activo;Loreto;Maynas;Napo
+1937;557140;60971;Primaria;Activo;Loreto;Maynas;Napo
+1938;557173;60972;Primaria;Activo;Loreto;Maynas;Napo
+1939;557207;60973;Primaria;Activo;Loreto;Maynas;Napo
+1940;557322;60974 MARIANO MELGAR;Primaria;Activo;Loreto;Maynas;Punchana
+1941;573337;60975 JOSE CARLOS MARIATEGUI;Primaria;Activo;Loreto;Maynas;Iquitos
+1942;557470;60976;Primaria;Activo;Loreto;Maynas;Punchana
+1943;557504;60977;Primaria;Activo;Loreto;Maynas;Punchana
+1944;1267939;60977;Secundaria;Activo;Loreto;Maynas;Punchana
+1945;557561;60978;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1946;557595;60979;Primaria;Activo;Loreto;Maynas;Fernando Lores
+1947;557629;60980;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1948;557652;60981;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1949;557686;60982;Primaria;Activo;Loreto;Maynas;Las Amazonas
+1950;574343;60983;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1951;1148758;60984 FERNANDO LORES DE CAMOTE;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1952;574400;60985;Primaria;Activo;Loreto;Mariscal Ramón Castilla;Pebas
+1953;557744;60986 - PERUATE II ZONA;Primaria;Activo;Loreto;Mariscal Ramón Castilla;San Pablo
+1954;557835;60987;Primaria;Activo;Loreto;Requena;Maquia
+1955;572941;60988 HIJOS DEL CORRIENTE;Primaria;Activo;Loreto;Loreto;Trompeteros
+1956;1671007;60988 HIJOS DEL CORRIENTE;Secundaria;Activo;Loreto;Loreto;Trompeteros
+1957;556969;60989;Primaria;Activo;Loreto;Maynas;San Juan Bautista
+1958;557264;60990;Primaria;Activo;Loreto;Maynas;Napo
+1959;557298;60991;Primaria;Activo;Loreto;Maynas;Torres Causana
+1960;557801;60992;Primaria;Activo;Loreto;Requena;Maquia
+1961;1759901;60992;Secundaria;Activo;Loreto;Requena;Maquia
+1962;565523;60993 RAMON CASTILLA;Primaria;Activo;Loreto;Maynas;Belén
+1963;1147537;60993 RAMON CASTILLA Y MARQUEZADO;Secundaria;Activo;Loreto;Maynas;Belén
+1964;573097;60994;Primaria;Activo;Loreto;Loreto;Urarinas
+1965;573113;60995;Primaria;Activo;Loreto;Loreto;Urarinas
+1966;1538768;60995;Secundaria;Activo;Loreto;Loreto;Urarinas
+1967;573121;60996;Primaria;Activo;Loreto;Loreto;Urarinas
+1968;1638394;60996;Secundaria;Activo;Loreto;Loreto;Urarinas
+1969;573147;60997;Primaria;Activo;Loreto;Loreto;Urarinas
+1970;573154;60998;Primaria;Activo;Loreto;Loreto;Urarinas
+1971;573170;60999;Primaria;Activo;Loreto;Loreto;Urarinas
+1972;400697;61001 CLUB DE LEONES;Primaria;Activo;Loreto;Maynas;Iquitos
+1973;400705;61002 ANDRES BELLO;Primaria;Activo;Loreto;Maynas;Iquitos
+1974;400739;61003 MARIA AUXILIADORA;Primaria;Activo;Loreto;Maynas;Iquitos
+1975;398495;61004 JUAN PABLO II;Primaria;Activo;Loreto;Maynas;Iquitos
+1976;1208891;61004 JUAN PABLO II;Secundaria;Activo;Loreto;Maynas;Iquitos
+1977;400754;61005 SOFIA LECCA VARGAS;Primaria;Activo;Loreto;Maynas;Iquitos
+1978;398511;61006 SARA ALICIA SABERBEIN PINEDO;Primaria;Activo;Loreto;Maynas;Belén
+1979;400762;61008 JUAN BAUTISTA MORI ROSALES;Primaria;Activo;Loreto;Maynas;Iquitos
+1980;203497;61009;Primaria;Inactivo;Loreto;Maynas;Iquitos
+1981;203505;61010 FERNANDO LORES TENAZOA;Primaria;Activo;Loreto;Maynas;Iquitos
+1982;1262930;61010 FERNANDO LORES TENAZOA;Secundaria;Activo;Loreto;Maynas;Iquitos
+1983;203562;61014 HORACIO ZEVALLOS GAMEZ;Primaria;Activo;Loreto;Maynas;Iquitos
+1984;398875;61015 LA INMACULADA;Primaria;Activo;Loreto;Maynas;Punchana
+1985;401448;61022 JORGE BARDALES RUIZ;Primaria;Activo;Loreto;Loreto;Nauta
+1986;1150069;61022 JORGE BARDALES RUIZ;Secundaria;Activo;Loreto;Loreto;Nauta
+1987;401455;61023 ROSA LICENIA VELA PINEDO DE COSTA;Primaria;Activo;Loreto;Loreto;Nauta
+1988;1150101;61023 ROSA LICENIA VELA PINEDO DE COSTA;Secundaria;Activo;Loreto;Loreto;Nauta
+1989;397588;61025 ISAURA CASIANA MAFALDO GORDON;Primaria;Activo;Loreto;Requena;Requena
+1990;1262492;61025 ISAURA CASIANA MAFALDO GORDON;Secundaria;Activo;Loreto;Requena;Requena
+1991;684944;61154;Primaria;Activo;Loreto;Ucayali;Contamana
+1992;698076;61155;Primaria;Activo;Loreto;Ucayali;Pampa Hermosa
+1993;582569;61157-B;Primaria;Activo;Loreto;Ucayali;Contamana
+1994;725358;61158;Primaria;Activo;Loreto;Ucayali;Contamana
+1995;684969;61159;Primaria;Activo;Loreto;Ucayali;Contamana
+1996;725366;61160;Primaria;Activo;Loreto;Ucayali;Contamana
+1997;746792;61161;Primaria;Activo;Loreto;Ucayali;Sarayacu
+1998;684977;61162;Primaria;Inactivo;Loreto;Ucayali;Sarayacu
+1999;725374;61164;Primaria;Activo;Loreto;Ucayali;Padre Márquez
+2000;1229988;61164 PS;Secundaria;Activo;Loreto;Ucayali;Padre Márquez
+2001;746594;61165;Primaria;Activo;Loreto;Ucayali;Contamana
+2002;698084;61166;Primaria;Activo;Loreto;Ucayali;Contamana
+2003;746602;61167;Primaria;Activo;Loreto;Ucayali;Contamana
+2004;746610;61168-B;Primaria;Activo;Loreto;Ucayali;Contamana
+2005;725507;61169;Primaria;Inactivo;Loreto;Ucayali;Pampa Hermosa
+2006;746800;61170;Primaria;Activo;Loreto;Ucayali;Sarayacu
+2007;746826;61172-B;Primaria;Activo;Loreto;Ucayali;Sarayacu
+2008;803684;61173;Primaria;Activo;Loreto;Ucayali;Contamana
+2009;803718;61174;Primaria;Inactivo;Loreto;Ucayali;Sarayacu
+2010;803742;61175;Primaria;Activo;Loreto;Ucayali;Vargas Guerra
+2011;803775;61176;Primaria;Activo;Loreto;Ucayali;Sarayacu
+2012;1797372;61176;Secundaria;Activo;Loreto;Ucayali;Sarayacu
+2013;803809;61177 PS;Primaria;Activo;Loreto;Ucayali;Sarayacu
+2014;838417;61178;Primaria;Activo;Loreto;Ucayali;Sarayacu
+2015;1152677;61179;Primaria;Activo;Loreto;Ucayali;Contamana
+2016;838326;61180-B;Primaria;Activo;Loreto;Ucayali;Sarayacu
+2017;838292;61181;Primaria;Activo;Loreto;Ucayali;Sarayacu
+2018;1152958;61182;Primaria;Inactivo;Loreto;Ucayali;Padre Márquez
+2019;1209055;61183;Primaria;Activo;Loreto;Ucayali;Sarayacu
+2020;1152990;61184;Primaria;Activo;Loreto;Ucayali;Padre Márquez
+2021;1153030;61185 - B;Primaria;Inactivo;Loreto;Ucayali;Padre Márquez
+2022;1152719;61186;Primaria;Activo;Loreto;Ucayali;Contamana
+2023;838235;61187;Primaria;Activo;Loreto;Ucayali;Sarayacu
+2024;838177;61188;Primaria;Activo;Loreto;Ucayali;Sarayacu
+2025;838144;61189;Primaria;Inactivo;Loreto;Ucayali;Sarayacu
+2026;1188127;61190-B;Primaria;Activo;Loreto;Ucayali;Contamana
+2027;1542141;61191;Primaria;Activo;Loreto;Ucayali;Contamana
+2028;1153071;61192;Primaria;Inactivo;Loreto;Ucayali;Padre Márquez
+2029;1155209;61193;Primaria;Activo;Loreto;Ucayali;Contamana
+2030;838052;61194-B;Primaria;Activo;Loreto;Ucayali;Contamana
+2031;1153113;61195-B;Primaria;Activo;Loreto;Ucayali;Padre Márquez
+2032;725382;61196;Primaria;Inactivo;Loreto;Ucayali;Contamana
+2033;1152834;61197;Primaria;Activo;Loreto;Ucayali;Contamana
+2034;1153352;61198;Primaria;Inactivo;Loreto;Ucayali;Sarayacu
+2035;1153196;61199;Primaria;Inactivo;Loreto;Ucayali;Vargas Guerra
+2036;1229368;61200;Primaria;Inactivo;Loreto;Ucayali;Contamana
+2037;1153311;61200;Primaria;Inactivo;Loreto;Ucayali;Inahuaya
+2038;1153238;61201 CONSTANTINO VISALOTE HUAMAN;Primaria;Activo;Loreto;Ucayali;Vargas Guerra
+2039;1721463;61201 CONSTANTINO VISALOTE HUAMAN;Secundaria;Activo;Loreto;Ucayali;Vargas Guerra
+2040;1152875;61202;Primaria;Activo;Loreto;Ucayali;Contamana
+2041;1153154;61203;Primaria;Activo;Loreto;Ucayali;Padre Márquez
+2042;1152917;61204-B;Primaria;Activo;Loreto;Ucayali;Contamana
+2043;1153394;61205;Primaria;Activo;Loreto;Ucayali;Sarayacu
+2044;1153279;61206;Primaria;Activo;Loreto;Ucayali;Vargas Guerra
+2045;301309;61501;Primaria;Activo;Loreto;Maynas;Punchana
+2046;1307784;61501;Secundaria;Activo;Loreto;Maynas;Punchana
+2047;398891;62001 JOSE CUPERTINO GOMERO COTILLO;Primaria;Activo;Loreto;Alto Amazonas;Yurimaguas
+2048;202440;62004 OLGA MANUELA DEL AGUILA ANGULO;Primaria;Activo;Loreto;Alto Amazonas;Yurimaguas
+2049;202457;62005;Primaria;Activo;Loreto;Alto Amazonas;Yurimaguas
+2050;202465;62006 JOSE DAMASO RAMOS BOSMEDIANO;Primaria;Activo;Loreto;Alto Amazonas;Yurimaguas
